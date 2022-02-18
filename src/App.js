@@ -117,7 +117,7 @@ Registration for HooHacks 2022 is open!  HooHacks🦉 is UVA's premier student-r
 %0D%0A%0D%0A
 📢We will have experienced students and industry experts from companies like Leidos, CoStar, and Google hosting workshops and tech talks perfect for beginners and advanced students. 
 %0D%0A%0D%0A
-😆Group up with friends or meet new friends to create a project together for a chance to win prizes like laptops💻 and AirPods🎧 (we have $10,000💰 worth of prizes in total!). 
+😆Group up with friends or meet new friends to create a project together for a chance to win prizes like laptops💻 and AirPods🎧 (we have over $10,000💰 worth of prizes in total!). 
 %0D%0A%0D%0A
 📚We will have resources and mentors ready to guide and assist you with your project. 
 %0D%0A%0D%0A
