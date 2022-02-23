@@ -106,6 +106,7 @@ for longer messages (ex: blurb for HooHacks 2022). Edge kinda sucks when it come
   })
 
 // Professor Message Version
+// Notes on the message:  One newline is %0D%0A
 
 const pMessage = `Dear Professor ${entity.name.split(' ').pop()},%0D%0A%0D%0A
 
