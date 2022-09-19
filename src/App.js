@@ -46,7 +46,7 @@ useEffect(()=>{
       setEntitiesByEmail(setLabel(array3,"email")); // set label will return an array where the object's label is the email
     }
   });
-},[])
+})
 
 /*
 Function to send the mailto command and open default mail app
@@ -58,10 +58,10 @@ for longer messages (ex: blurb for HooHacks 2022). Edge kinda sucks when it come
 */
   const sendEmail = (()=>{
     if(entity.type.toLowerCase()==="professor"){
-      window.location.href = "mailto:"+entity.email+"?subject=Opportunity for Students - HooHacks 2022&body="+pMessage;
+      window.location.href = "mailto:"+entity.email+"?subject=Opportunity for Students - Ideathon 2022&body="+pMessage;
     }
     else{
-      window.location.href = "mailto:"+entity.email+"?subject=Opportunity for Students - HooHacks 2022&body="+oMessage;
+      window.location.href = "mailto:"+entity.email+"?subject=Opportunity for Students - Ideathon 2022&body="+oMessage;
     }
   })
 
@@ -108,31 +108,50 @@ for longer messages (ex: blurb for HooHacks 2022). Edge kinda sucks when it come
 // Professor Message Version
 // Notes on the message:  One newline is %0D%0A
 
+
 const pMessage = `Dear Professor ${entity.name.split(' ').pop()},%0D%0A%0D%0A
 
 I'm ${myName} from The HooHacks Team, and I'd greatly appreciate it if you would take the time to share this wonderful opportunity with your students in ${formatArray(entity.class)}.
 %0D%0A%0D%0A
-Registration for HooHacks 2022 is open!  HooHacks🦉 is UVA's premier student-run 24-hour hackathon and will take place March 26th - 27th as a hybrid event.  Hackathons are not for "hacking" in the sense of breaking into security systems, but more for "hacking" together a project within the span of 24 hours⏳.  It's a great opportunity for all students to learn, build, and have fun. We'd really like to stress that the hackathon does not require any prior coding experience and that non-STEM majors, first-time hackers, and beginner coders are all welcome.
+The HooHacks Team, in collaboration with the Virginia Consulting Group, is proud to announce that registration is open for Ideathon 2022, which will take place on October 8th!  Ideathon is an in-person event for networking, team-building, and pitching designed to help students with technical experience and students with business experience build their technical business ideas.  Students will have the chance to meet 1:1 with industry experts about their ideas and form long lasting relationships with them as they grow their ideas. Corporate sponsors and professors will be holding multiple workshops throughout the event to provide insight to students about pitching their ideas, valuing their potential businesses, and building technical prototypes.  Participants will have the opportunity to pitch to a board of sponsors and have the chance to win up to $1000 worth of seed money to help fund their startup. In total, there will be more than $2000 worth of prizes!
 %0D%0A%0D%0A
-🌞This event will be hybrid. Those that are able to come in-person to UVA will be able to enjoy free food🍕, free swag👕, in-person sponsors, physical spaces to work🏢, and more!  You can also attend the event completely virtually and enjoy our online fun events + workshops!
+✅Sign up today at:  https://ideathon.hoohacks.io/apply
+%0D%0A
+💭Learn more about the event at: https://ideathon.hoohacks.io/
 %0D%0A%0D%0A
-📢We will have experienced students and industry experts from companies like Leidos, CoStar, and Google hosting workshops and tech talks perfect for beginners and advanced students. 
-%0D%0A%0D%0A
-😆Group up with friends or meet new friends to create a project together for a chance to win prizes like laptops💻 and AirPods🎧 (we have over $10,000💰 worth of prizes in total!). 
-%0D%0A%0D%0A
-📚We will have resources and mentors ready to guide and assist you with your project. 
-%0D%0A%0D%0A
-🎈Aside from that, HooHacks will have fun activities for everyone to enjoy scattered throughout the hackathon like a puzzle challenge, Pokémon tournament, and salsa dancing. 
-%0D%0A%0D%0A
-📄Here's an infographic about the event: https://bit.ly/3GTBR6B %0D%0A
-✅Sign up today at:  https://www.hoohacks.io/register (Registration will close on March 16) %0D%0A
-💭Learn more about the event at: http://hoohacks.io %0D%0A%0D%0A
 
-Thank you so much!%0D%0A%0D%0A
+Thank you very much!%0D%0A%0D%0A
 
 Best Regards,%0D%0A
 ${myName}
 `
+
+
+// const pMessage = `Dear Professor ${entity.name.split(' ').pop()},%0D%0A%0D%0A
+
+// I'm ${myName} from The HooHacks Team, and I'd greatly appreciate it if you would take the time to share this wonderful opportunity with your students in ${formatArray(entity.class)}.
+// %0D%0A%0D%0A
+// Registration for HooHacks 2022 is open!  HooHacks🦉 is UVA's premier student-run 24-hour hackathon and will take place March 26th - 27th as a hybrid event.  Hackathons are not for "hacking" in the sense of breaking into security systems, but more for "hacking" together a project within the span of 24 hours⏳.  It's a great opportunity for all students to learn, build, and have fun. We'd really like to stress that the hackathon does not require any prior coding experience and that non-STEM majors, first-time hackers, and beginner coders are all welcome.
+// %0D%0A%0D%0A
+// 🌞This event will be hybrid. Those that are able to come in-person to UVA will be able to enjoy free food🍕, free swag👕, in-person sponsors, physical spaces to work🏢, and more!  You can also attend the event completely virtually and enjoy our online fun events + workshops!
+// %0D%0A%0D%0A
+// 📢We will have experienced students and industry experts from companies like Leidos, CoStar, and Google hosting workshops and tech talks perfect for beginners and advanced students. 
+// %0D%0A%0D%0A
+// 😆Group up with friends or meet new friends to create a project together for a chance to win prizes like laptops💻 and AirPods🎧 (we have over $10,000💰 worth of prizes in total!). 
+// %0D%0A%0D%0A
+// 📚We will have resources and mentors ready to guide and assist you with your project. 
+// %0D%0A%0D%0A
+// 🎈Aside from that, HooHacks will have fun activities for everyone to enjoy scattered throughout the hackathon like a puzzle challenge, Pokémon tournament, and salsa dancing. 
+// %0D%0A%0D%0A
+// 📄Here's an infographic about the event: https://bit.ly/3GTBR6B %0D%0A
+// ✅Sign up today at:  https://www.hoohacks.io/register (Registration will close on March 16) %0D%0A
+// 💭Learn more about the event at: http://hoohacks.io %0D%0A%0D%0A
+
+// Thank you so much!%0D%0A%0D%0A
+
+// Best Regards,%0D%0A
+// ${myName}
+// `
 
 
 // Organization Message Version
