@@ -1,303 +1,494 @@
 type,name,class,email
-Professor,Aaron Bloomfield,CS 2150 Program and Data Representation,asb2t@virginia.edu
+Professor,Aaron Bloomfield,CS 3710 Introduction to Cybersecurity,asb2t@virginia.edu
 Professor,Aaron Bloomfield,CS 4501 Special Topics in Computer Science,asb2t@virginia.edu
-Professor,Abby Rothenberg,LPPA 3640: Research Methods and Data Analysis in Public Policy,acr4bb@virginia.edu
-Professor,Abigail Quinn,LPPA 3640: Research Methods and Data Analysis in Public Policy,amq6fn@virginia.edu
-Professor,Adam Felder,LPPP 6500: Topics in Public Policy,amf5ka@virginia.edu
-Professor,Aidan Doud,LPPP 2200: Introduction to Public Policy,ad3swt@virginia.edu
+Professor,Abbie Oliver,COMM 3040 Strategic Value Creation,ago7s@virginia.edu
+Professor,Adam Barnes,ECE 2501 Special Topics in Electrical and Computer Engineering,ab6uy@virginia.edu
+Professor,Adam Barnes,ECE 3250 Electromagnetic Energy Conversion,ab6uy@virginia.edu
+Professor,Adam Barnes,ECE 3251 Electromagnetic Energy Conversion Lab,ab6uy@virginia.edu
+Professor,Adam Barnes,ECE 4991 MDE - Capstone Design,ab6uy@virginia.edu
+Professor,Afsaneh Doryab,SYS 2202 Data and Information Engineering,ad4ks@virginia.edu
+Professor,Afsaneh Doryab,SYS 4054 Systems Design II,ad4ks@virginia.edu
 Professor,Alexander Zorychta,ENTP 1010 Startup: An Introduction to Entrepreneurship,ajz9uc@virginia.edu
-Professor,Allison Atteberry,LPPP 6001: Foundational Skills Workshop,aa2pn@virginia.edu
-Professor,Amar Cheema,COMM 4380 Consumer Behavior and Marketing Strategy,ac3cq@virginia.edu
-Professor,Ana Fostel,ECON 4365: Global Financial Markets,alf8p@virginia.edu
-Professor,Andrea Roberts,COMM 5140 Accounting for Decision Making and Control,aar5u@virginia.edu
-Professor,Andreas Addison,LPPS 4735: Experiential Social Entrepreneurship,ada5m@virginia.edu
-Professor,Andrew Kloosterman,ECON 3010: Intermediate Microeconomics,ask5b@virginia.edu
-Professor,Andrew Pennock,LPPL 6050: Leadership in the Public Arena,asp2d@virginia.edu
+Professor,Alice Fox,STS 4500 STS and Engineering Practice,fsy8tb@virginia.edu
+Professor,Allan Stam,LPPS 3040 US National Security Policy,acs8tb@virginia.edu
+Professor,Amelia Buckland,MATH 1210 A survey of Calculus I,plb6n@virginia.edu
+Professor,Andreas Addison,LPPS 4735 Experiential Social Entrepreneurship,ada5m@virginia.edu
+Professor,Andreas Beling,ECE 4501 Special Topics in Electrical and Computer Engineering,ab3pj@virginia.edu
+Professor,Andrei Rapinchuk,MATH 4559 New Course in Mathematics,asr3x@virginia.edu
+Professor,Andres Clarens,SYS 4054 Systems Design II,afc7r@virginia.edu
+Professor,Andrew Kloosterman,ECON 3010 Intermediate Microeconomics,ask5b@virginia.edu
 Professor,Angela Orebaugh,CS 3710 Introduction to Cybersecurity,ado4v@virginia.edu
-Professor,Angela Orebaugh,CS 4501 Special Topics in Computer Science,ado4v@virginia.edu
-Professor,Ann Backof,COMM 3110 Intermediate Accounting I,asg3b@virginia.edu
+Professor,Ann Reimers,MAE 2300 Statics,aer2b@virginia.edu
+Professor,Anthony Baglioni,COMM 3050 Managerial Decision Making,ajb2t@virginia.edu
+Professor,Anthony Swisher,ECON 4200 Antitrust Policy,aws3eu@virginia.edu
+Professor,Arsalan Heydarian,SYS 4054 Systems Design II,ah6rx@virginia.edu
+Professor,Ashish Venkat,CS 4501 Special Topics in Computer Science,av6ds@virginia.edu
 Professor,Asif Mahmood,APMA 2120 Multivariable Calculus,afz6km@virginia.edu
-Professor,Balashankar Mulloth,LPPS 3050: Introduction to Social Entrepreneurship,bm8ah@virginia.edu
-Professor,Bellave Shivaram,PHYS 3150 Electronics Laboratory,bss2d@virginia.edu
-Professor,Bellave Shivaram,PHYS 5110 Special Topics in Classical and Modern Physics,bss2d@virginia.edu
-Professor,Bellave Shivaram,PHYS 5190 Electronics Lab,bss2d@virginia.edu
-Professor,Benjamin Converse,LPPL 7410: Psychology for Leadership,bac5w@virginia.edu
-Professor,Benjamin Jackson,"LPPL 2100: The Resilient Student: Transition, Thriving, and Leadership",bsj3yty@virginia.edu
-Professor,Benjamin Laugelli,STS 1500 Designing for a Sustainable World,bjl3q@virginia.edu
-Professor,Benjamin Laugelli,STS 4500 STS and Engineering Practice,bjl3q@virginia.edu
-Professor,Bingyun Wang,COMM 3110 Intermediate Accounting I,bw7ee@virginia.edu
-Professor,Blaine Norum,PHYS 2415 Introductory Physics 2 for Engineers,ben@virginia.edu
-Professor,Brian Williams,LPPS 3310: Police-Community Relations: Problems and Prospects,bnw9q@virginia.edu
-Professor,Briana Morrison,CS 1110 Introduction to Programming,wxt4gm@virginia.edu
-Professor,Brooke Lehmann,LPPP 5540: Applied Policy Clinics,bl5pa@virginia.edu
-Professor,Brooke Lehmann,LPPS 3460: Introduction to Policy & the Legislative Process,bl5pa@virginia.edu
-Professor,Bryan Lewis,COMM 4263 Intro to Cybersecurity,brl6m@virginia.edu
+Professor,Asif Mahmood,APMA 3080 Linear Algebra,afz6km@virginia.edu
+Professor,Avik Ghosh,ECE 4140 Fundamentals of Nanoelectronics,ag7rq@virginia.edu
+Professor,Balashankar Mulloth,LPPS 3410 Innovation and Social Impact,bm8ah@virginia.edu
+Professor,Bellave Shivaram,PHYS 3620 Introduction to Condensed Matter Physics,bss2d@virginia.edu
+Professor,Ben Small,ARCH 2020 Foundation Studio III,bss5pr@virginia.edu
+Professor,Benjamin Hayes,MATH 4330 Calculus on Manifolds,brh5c@virginia.edu
+Professor,Benjamin Laugelli,"STS 1500 Science, Technology, and Contemporary Issues",bjl3q@virginia.edu
+Professor,Benjamin Laugelli,"STS 4600 The Engineer, Ethics, and Professional Responsibility",bjl3q@virginia.edu
+Professor,Benton Calhoun,ECE 4332 Introduction to VLSI Design,bhc2b@virginia.edu
+Professor,Beth Branman,MATH 2310 Calculus III,szq3yx@virginia.edu
+Professor,Bicheng Zhou,MSE 3070 Kinetics and Phase Transformation in Materials,bz2s@virginia.edu
+Professor,Blaine Norum,PHYS 1425 Introductory Physics 1 for Engineers,ben@virginia.edu
+Professor,Bobby Vance,ARCH 3020 Foundation Studio V,xmw6ds@virginia.edu
+Professor,Brad Campbell,ECE 4501 Special Topics in Electrical and Computer Engineering,bjc8c@virginia.edu
+Professor,Brad Campbell,CS 4501 Special Topics in Computer Science,bjc8c@virginia.edu
+Professor,"Bradley Cantrell, Sneha Patel",ARCH 5130 Paper Matters,sdp6f@virginia.edu
+Professor,Brendan Boler,LPPS 3440 Intro to Mngmt Consulting and Strategic Decision Making,bjb9c@virginia.edu
+Professor,Brent Kitchens,COMM 4522 Topics in Business Analytics,bmk2a@virginia.edu
+Professor,Brian Helmke,BME 1501 Special Topics,helmke@virginia.edu
+Professor,Brian Helmke,BME 3240 Biotransport,helmke@virginia.edu
+Professor,Brian Helmke,ENGR 1501 Special Topics,helmke@virginia.edu
+Professor,Brian Wright,DS 3001 Foundations of Machine Learning,brianwright@virginia.edu
+Professor,Briana Morrison,CS 2100 Data Structures and Algorithms 1,wxt4gm@virginia.edu
+Professor,Brianna Kurtz,MATH 1220 A Survey of Calculus II,nbm2vp@virginia.edu
+Professor,Brittany Olivari,ARCH 2020 Foundation Studio III,bpo4m@virginia.edu
+Professor,Brooke Lehmann,LPPS 4230 US Mental Health Policy,bl5pa@virginia.edu
+Professor,Bruce Corliss,DS 2003 Communicating with Data,bac7wj@virginia.edu
+Professor,Bryan Berger,CHE 2202 Thermodynamics,bwb2k@virginia.edu
 Professor,Bryan Wright,PHYS 1660 Practical Computing for the Physical Sciences,bkw1a@virginia.edu
-Professor,Bryn Seabrook,STS 4500 STS and Engineering Practice,web5g@virginia.edu
-Professor,Bryn Seabrook,"STS 6592 How Engineering Impacts Diversity, Equity, & Inclusion",web5g@virginia.edu
-Professor,Caitlin Wylie,STS 2500 Ethical Analytics: Using Data for Social Good,cdw9y@virginia.edu
-Professor,Caitlin Wylie,STS 4500 STS and Engineering Practice,cdw9y@virginia.edu
-Professor,Carola Schenone,COMM 3720 Intermediate Corporate Finance,cs2dz@virginia.edu
-Professor,Carola Schenone,COMM 4720 Advanced Corporate Finance: Valuation and Restructuring,cs2dz@virginia.edu
-Professor,Carrie Heilman,COMM 4371 Strategic Brand Consulting and Communications,cmh8p@virginia.edu
-Professor,Carter Doyle,ECON 2010: Principles of Economics: Microeconomics,cad7q@virginia.edu
-Professor,Carter Doyle,ECON 2020: Principles of Economics: Macroeconomics,cad7q@virginia.edu
-Professor,Carter Doyle,ECON 3030: Money Banking,cad7q@virginia.edu
-Professor,Casey Gottlieb,LPPP 2200: Introduction to Public Policy,cog3cf@virginia.edu
-Professor,Casey Wilson,LPPP 2200: Introduction to Public Policy,cmw8pe@virginia.edu
-Professor,Cass Sackett,PHYS 5310 Optics,cas8m@virginia.edu
-Professor,Catherine Baritaud,STS 4500 STS and Engineering Practice,cdb5w@virginia.edu
-Professor,Charles Groscup,LPPA 6100: Economics of Public Policy I,cwg9cy@virginia.edu
-Professor,Charles Holt,ECON 4820: Experimental Economics,cah2k@virginia.edu
+Professor,Bryn Seabrook,STS 2500 Science and Technology in Social and Global Context,web5g@virginia.edu
+Professor,Bryn Seabrook,"STS 4600 The Engineer, Ethics, and Professional Responsibility",web5g@virginia.edu
+Professor,Cameron Fullmer,ARCH 3020 Foundation Studio V,cmf3nx@virginia.edu
+Professor,Camille Bilodeau,CHE 2216 Modeling and Simulation in Chemical Engineering,cur5wz@virginia.edu
+Professor,Carl Knospe,MAE 3010 Astronautics,crk4y@virginia.edu
+Professor,Caroline Crockett,ECE 2660 ECE Fundamentals II,cec3fh@virginia.edu
+Professor,Carrie Heilman,COMM 4372 Integrated Communications and Digital Campaigns,heilman@virginia.edu
+Professor,Carter Doyle,ECON 2010 Principles of Economics: Microeconomics,cad7q@virginia.edu
+Professor,Carter Doyle,ECON 3030 Money and Banking,cad7q@virginia.edu
+Professor,Cass Sackett,PHYS 3340 Mathematics for Physics,cas8m@virginia.edu
+Professor,Catherine Baritaud,"STS 4600 The Engineer, Ethics, and Professional Responsibility",cdb5w@virginia.edu
+Professor,Charles Holt,ECON 2820 Introduction to Behavioral Economics,cah2k@virginia.edu
 Professor,Charles Ransler,COMM 4680 Entrepreneurship,cwr5s@virginia.edu
-Professor,Charles Ransler,ENTP 1010 Startup: An Introduction to Entrepreneurship,ajz9uc@virginia.edu
+Professor,Charles Ransler,ENTP 1010 Startup: An Introduction to Entrepreneurship,cwr5s@virginia.edu
+Professor,Charles Reiss,CS 3130 Computer Systems and Organization 2,cr4bd@virginia.edu
 Professor,Charles Reiss,CS 3330 Computer Architecture,cr4bd@virginia.edu
 Professor,Charlotte Hoopes,COMM 1800 Foundations of Commerce,clh6xz@virginia.edu
-Professor,Chi Yan Jeffrey Teo,PHYS 5620 Solid State Physics,ct5wa@virginia.edu
-Professor,Chris Neu,PHYS 1050 How Things Work,ccn4g@virginia.edu
-Professor,Chrisopher Mcgee,ECON 4350: Corporate Finance,cdm4nr@virginia.edu
+Professor,Charlotte Ure,MATH 4652 Introduction to Abstract Algebra,cu9da@virginia.edu
+Professor,Cheng Chen,ARCH 2020 Foundation Studio III,cc5wy@virginia.edu
+Professor,Chiraag Mittal,COMM 4380 Consumer Behavior and Marketing Strategy,cm3hk@virginia.edu
+Professor,Chloe Dedic,MAE 2100 Thermodynamics,cd5qm@virginia.edu
+Professor,Chris Goyne,MAE 4700 Spacecraft Design II,cpg3e@virginia.edu
+Professor,Chris Neu,PHYS 1425 Introductory Physics 1 for Engineers,ccn4g@virginia.edu
+Professor,Chris Paolucci,CHE 4561 Special Topics in Chemical Engineering,cp9wx@virginia.edu
+Professor,Chris Paolucci,CHE 6452 Data Science in Chemical Engineering,cp9wx@virginia.edu
+Professor,Christian Gromoll,MATH 4140 Mathematics of Derivative Securities,gromoll@virginia.edu
 Professor,Christian Hellings,APMA 2120 Multivariable Calculus,cjh6u@virginia.edu
-Professor,Christian Hellings,APMA 3100 Probability,cjh6u@virginia.edu
-Professor,Christine Kim,COMM 3330 Marketing Research & Analytic Techniques,sqm6hx@virginia.edu
-Professor,Christine Mahoney,LPPS 4735: Experiential Social Entrepreneurship,cm2cg@virginia.edu
-Professor,Christopher Mcgee,ECON 3020: Intermediate Macroeconomics,cdm4nr@virginia.edu
-Professor,Cong Shen,APMA 3100 Probability,cs7dt@virginia.edu
+Professor,Christian Hellings,APMA 2130 Ordinary Differential Equations,cjh6u@virginia.edu
+Professor,Christopher Mcgee,ECON 3020 Intermediate Macroeconomics,cdm4nr@virginia.edu
+Professor,Christopher Mcgee,ECON 4350 Corporate Finance,cdm4nr@virginia.edu
+Professor,Clayton Strange,ARCH 3020 Foundation Studio V,txw3sd@virginia.edu
+Professor,Cong Shen,ECE 4502 Special Topics in Electrical and Computer Engineering,cs7dt@virginia.edu
+Professor,Cong Shen,ECE 4710 Communications,cs7dt@virginia.edu
 Professor,Connor Celum,STAT 3110 Foundations of Statistics,xcb5dq@virginia.edu
-Professor,D Keller ,PHYS 5110 Special Topics in Classical and Modern Physics,dmk9m@virginia.edu
-Professor,Dan Spitzner,STAT 3130 Design and Analysis of Sample Surveys,djs4y@virginia.edu
-Professor,Dan Spitzner,STAT 5170 Applied Time Series,djs4y@virginia.edu
-Professor,Daniel Moy,LPPS 3240: Terrorism and Counterterrorism,qpq8hj@virginia.edu
-Professor,Daniel Player,LPPA 3640: Research Methods and Data Analysis in Public Policy,dwp2g@virginia.edu
-Professor,Daniel Player,LPPA 7220: Advance Topics in Impact Evaluations,dwp2g@virginia.edu
-Professor,Daniel Reifsnyder,LPPP 5559: New Course in Public Policy and Leadership,dar7q@virginia.edu
-Professor,Daphna Bassok,LPPS 6080: Education Policy,db9ec@virginia.edu
-Professor,David Evans,CS 4501 Special Topics in Computer Science,dee2b@virginia.edu
-Professor,David Nichols,PHYS 5000 Physics Colloquium,dn2ep@virginia.edu
-Professor,Deepyaman Maiti,APMA 3110 Applied Statistics and Probablility,dm5jc@virginia.edu
-Professor,Denise Stewart,LPPP 4500: Topics in Public Policy and Leadership,dml6j@virginia.edu
-Professor,Denise Stewart,LPPP 6500: Topics in Public Policy,dml6j@virginia.edu
-Professor,Derek Wu,LPPA 6150: Research Methods & Data Analysis I,vbj8rh@virginia.edu
-Professor,Derrick Stone,CS 1010 Introduction to Information Technology,djs6d@virginia.edu
+Professor,Craig Volden,LPPP 3230 Public Policy Challenges of the 21st Century,cv4w@virginia.edu
+Professor,Cynthia Fraser,COMM 3050 Managerial Decision Making,cfg8q@virginia.edu
+Professor,Daniel Abebayehu,BME 2104 Cell and Molecular Biology for Engineers,da3g@virginia.edu
+Professor,Daniel Graham,CS 4457 Computer Networks,dgg6b@virginia.edu
+Professor,Daniel Graham,CS 4760 Network Security,dgg6b@virginia.edu
+Professor,Daniel Graham,ECE 4457 Computer Networks,dgg6b@virginia.edu
+Professor,Daniel James,MATH 1310 Calculus I,hdj4nd@virginia.edu
+Professor,Daniel Moy,LPPS 3240 Terrorism and Counterterrorism,qpq8hj@virginia.edu
+Professor,Daniel Slonim,MATH 3310 Basic Real Analysis,8ku8jc@virginia.edu
+Professor,David Chapman,COMM 2700 Foundations of Real Estate Finance,dac2ug@virginia.edu
+Professor,David Chen,BME 4550 Special Topics in Biomedical Engineering,dc9rk@virginia.edu
+Professor,David Chen,BME 4993 Independent Study,dc9rk@virginia.edu
+Professor,David Evans,CS 3120 Discrete Mathematics and Theory 2,dee2b@virginia.edu
+Professor,David Green,CHE 4442 Applied Surface Chemistry,dlg9s@virginia.edu
+Professor,David Green,CHE 6442 Applied Surface Chemistry,dlg9s@virginia.edu
+Professor,David Mick,COMM 3330 Marketing Research and Analytic Techniques,dgm9t@virginia.edu
+Professor,David Mick,COMM 4831 Cultivating Wisdom and Well-Being for Personal and Professional Growth,dgm9t@virginia.edu
+Professor,David Sherman,MATH 3000 Transition to Higher Mathematics,des5e@virginia.edu
+Professor,David Smith,COMM 3720 Intermediate Corporate Finance,dcs8f@virginia.edu
+Professor,David Smith,COMM 4722 Corporate Restructuring and Distress Investing,dcs8f@virginia.edu
+Professor,David Will,MATH 1140 Financial Mathematics,zg7c@virginia.edu
+Professor,Deepyaman Maiti,APMA 3100 Probability,dm5jc@virginia.edu
+Professor,Deepyaman Maiti,APMA 3110 Applied Statistics and Probability,dm5jc@virginia.edu
+Professor,Derick Davis,COMM 3330 Marketing Research and Analytic Techniques,dfd6r@virginia.edu
+Professor,Derrick Stone,CS 1110 Introduction to Programming,djs6d@virginia.edu
 Professor,Derrick Stone,CS 2100 Data Structures and Algorithms 1,djs6d@virginia.edu
-Professor,Diana Morris,APMA 2130 Ordinary Differential Equations,dmd8a@virginia.edu
+Professor,Dhara Goradia,ARCH 2020 Foundation Studio III,ddg8e@virginia.edu
 Professor,Diana Morris,APMA 3140 Applied Partial Differential Equations,dmd8a@virginia.edu
-Professor,Diana Vaman,PHYS 5170 Introduction to Cosmology,dv3h@virginia.edu
-Professor,Dinko Pocanic,PHYS 5720 Introduction to Nuclear and Particle Physics,dp5m@virginia.edu
-Professor,Donavon Lea,"LPPL 2100: The Resilient Student: Transition, Thriving, and Leadership",dal8kt@virginia.edu
+Professor,Dinko Pocanic,PHYS 2620 Modern Physics,dp5m@virginia.edu
+Professor,Dmitriy Sonkin,MATH 1210 A survey of Calculus I,ds5nd@virginia.edu
+Professor,Donald Griffin,BME 4890 Nanomedicine,dg2gf@virginia.edu
 Professor,Dorothy Kelly,COMM 2730 Personal Finance,dck2w@virginia.edu
-Professor,E Dukes,PHYS 1110 Energy on this World and Elsewhere, ecd3m@virginia.edu
-Professor,E Dukes,PHYS 5110 Special Topics in Classical and Modern Physics, ecd3m@virginia.edu
-Professor,Edward Finley,COMM 3700 Markets and Investing,ejf3ma@virginia.edu
-Professor,Edward Finley,COMM 4780 Institutional Investment Management,ejf3ma@virginia.edu
-Professor,Edwin Burton,ECON 4340: The Theory of Financial Markets,etb6d@virginia.edu
-Professor,Eileen Chou,LPPL 3210: Behavioral Sciences for Civic Leadership,eyc4m@virginia.edu
-Professor,Eileen Chou,LPPP 2000: Batten Showcase: A Collection of Lectures on Leadership and Public Policy,eyc4m@virginia.edu
-Professor,Elana DeLozier,LPPP 7559: New Course in Public Policy and Leadership,tfa2vt@virginia.edu
+Professor,E Dukes,PHYS 1425 Introductory Physics 1 for Engineers,ecd3m@virginia.edu
+Professor,Edwin Burton,ECON 1559 New Course in Economics,etb6d@virginia.edu
+Professor,Edwin Burton,ECON 4370 Behavioral Finance,etb6d@virginia.edu
+Professor,Ehsan Baharlou,ARCH 4020 Independent Design Research Studio,eb8cn@virginia.edu
 Professor,Elizabeth Orrico,CS 2120 Discrete Mathematics and Theory 1,emo7bf@virginia.edu
-Professor,Emma Zhao,COMM 4620 Strategic Leadership,eyz7t@virginia.edu
-Professor,Eric Leeper,ECON 4420: Macroeconomic Policy,eml3jf@virginia.edu
+Professor,Eric Anderson,CHE 4476 Chemical Engineering Design,ewa3a@virginia.edu
+Professor,Eric Anderson,CHE 6476 Process Design and Economics,ewa3a@virginia.edu
+Professor,Eric Field,SARC 5400 Data Visualization,emf2a@virginia.edu
+Professor,Eric Leeper,ECON 4420 Macroeconomic Policy,eml3jf@virginia.edu
 Professor,Eric Martin,COMM 3230 Managing Innovation,em5dq@virginia.edu
 Professor,Eric Martin,COMM 4681 Entrepreneurship Track Capstone,em5dq@virginia.edu
-Professor,Eric Van Wincoop,ECON 4220: International Finance and Macroeconomics,ev4n@virginia.edu
-Professor,Farzad Dizaji,APMA 1110 Single Variable Calculus II,ffs5da@virginia.edu
-Professor,Farzad Dizaji,APMA 2130 Ordinary Differential Equations,ffs5da@virginia.edu
-Professor,Farzad Hassanzadeh,CS 4501 Special Topics in Computer Science,ffh8x@virginia.edu
-Professor,Felicia Marston,COMM 4720 Advanced Corporate Finance: Valuation and Restructuring,fm2v@virginia.edu
-Professor,Ga Ming Angus Chan,STAT 1100 Chance: An Introduction to Statistics,gc8ev@virginia.edu
-Professor,Gabriela Matheu,LPPP 2200: Introduction to Public Policy,gcm4cd@virginia.edu
-Professor,Gabrielle Adams,LPPL 7025: Values-Based Leadership,gsa4a@virginia.edu
-Professor,Gary Koenig,APMA 3110 Applied Statistics and Probablility,gmk3k@virginia.edu
-Professor,Geoffrey Fox,CS 1501 Special Topics in Computer Science,vxj6mb@virginia.edu
-Professor,George Prpich,STS 2830 Startup Operations for Entrepreneurs,gp6z@virginia.edu
-Professor,Gerald Warburg,LPPS 6710: Congress 101: Leadership Strategies,gfw2f@virginia.edu
-Professor,Gia-Wei Chern,PHYS 5630 Computational Physics I,gc6u@virginia.edu
-Professor,Gianluca Guadagni,APMA 2130 Ordinary Differential Equations,gg5d@virginia.edu
-Professor,Gretchen Martinet,STAT 3080 	From Data to Knowledge,gaf9f@virginia.edu
-Professor,Gretchen Martinet,STAT 4996 Capstone,gaf9f@virginia.edu
+Professor,Eric Negangard,COMM 4150 Introductory Auditing,emn2j@virginia.edu
+Professor,Eric Van Wincoop,ECON 4220 International Finance and Macroeconomics,ev4n@virginia.edu
+Professor,Esther Lorenz,ARCH 2020 Foundation Studio III,el9q@virginia.edu
+Professor,Eugene Kolomeisky,PHYS 3660 Quantum Physics II,ek6n@virginia.edu
+Professor,Evan Bagley,STAT 1601 Introduction to Data Science with R,emb2mg@virginia.edu
+Professor,Evangelos Dimou,MATH 1220 A Survey of Calculus II,ed8bg@virginia.edu
+Professor,Farzad Shafiei Dizaji,APMA 1090 Single Variable Calculus I,ffs5da@virginia.edu
+Professor,Farzad Shafiei Dizaji,APMA 2130 Ordinary Differential Equations,ffs5da@virginia.edu
+Professor,Federico Ciliberto,ECON 4190 Industrial Organization,f3cp@virginia.edu
+Professor,Felicia Marston,COMM 4760 Private Equity,fm2v@virginia.edu
+Professor,Felix Lin,CS 4414 Operating Systems,xl6yq@virginia.edu
+Professor,Frederick Epstein,BME 4783 Medical Imaging Modalities,fhe6b@virginia.edu
+Professor,Ga Ming Angus Chan,STAT 3110 Foundations of Statistics,gc8ev@virginia.edu
+Professor,Garrick Louis,SYS 2620 Engineered Systems Public Policy,gel7f@virginia.edu
+Professor,Garrick Louis,SYS 4054 Systems Design II,gel7f@virginia.edu
+Professor,Garrick Louis,SYS 4582 Selected Topics in Systems Engineering,gel7f@virginia.edu
+Professor,Garrick Louis,STS 2620 Science and Technology Public Policy,gel7f@virginia.edu
+Professor,Gary Koenig,CHE 6618 Chemical Reaction Engineering,gmk3k@virginia.edu
+Professor,Gavin Garner,MAE 4502 Special Topics in Mechanical Engineering,gtg7g@virginia.edu
+Professor,Gavin Garner,MAE 4710 Mechatronics,gtg7g@virginia.edu
+Professor,George Christ,BME 2102 Physiology II,gjc8w@virginia.edu
+Professor,George Overstreet,COMM 4791 Real Estate Investment Analysis,gao5h@virginia.edu
+Professor,George Overstreet,COMM 4792 Commercial Real Estate Seminar:Advanced Issues and Fieldwork,gao5h@virginia.edu
+Professor,George Prpich,CHE 3347 Biochemical Engineering,gp6z@virginia.edu
+Professor,George Prpich,CHE 3398 Chemical Engineering Laboratory I,gp6z@virginia.edu
+Professor,George Prpich,CHE 6447 Biochemical Engineering,gp6z@virginia.edu
+Professor,Gerald Warburg,LPPP 5350 NGO Leadership in Public Policy: Best Practices,gfw2f@virginia.edu
+Professor,Gregory Gerling,SYS 4054 Systems Design II,gg7@virginia.edu
+Professor,Gregory Gerling,SYS 4024 User Experience Design,gg7h@virginia.edu
+Professor,Gretchen Martinet,STAT 4220 Applied Analytics for Business,gaf9f@virginia.edu
+Professor,Gustavo Rohde,BME 2315 Computational Biomedical Engineering,gr2z@virginia.edu
+Professor,Haibo Dong,MAE 1501 Special Topics in Mechanical and Aerospace Engineering,hd6q@virginia.edu
+Professor,"Haibo Dong, J Guo",MAE 3730 Flight Vehicle Dynamics,"hd6q@virginia.edu, mns4zh@virginia.edu"
+Professor,Haiying Shen,CS 4740 Cloud Computing,hs6ms@virginia.edu
 Professor,Hamid Hosseinianfar,APMA 2120 Multivariable Calculus,hh9af@virginia.edu
+Professor,Haydn Wadley,MSE 4592 Special Topics in Materials Science,hnw4z@virginia.edu
+Professor,Homa Alemzadeh,ECE 4501 Special Topics in Electrical and Computer Engineering,ha4d@virginia.edu
+Professor,Hongning Wang,ECON 4740 Introduction to Algorithmic Economics,hw5x@virginia.edu
 Professor,Hongning Wang,CS 4501 Special Topics in Computer Science,hw5x@virginia.edu
-Professor,Hui Ma,APMA 1090 Single Variable Calculus,hm8j@virginia.edu
-Professor,Hui Ma,APMA 1110 Single Variable Calculus II,hm8j@virginia.edu
-Professor,Irene Cox,LPPA 6100: Economics of Public Policy I,ivc6vq@virginia.edu
-Professor,Irina Kozlenkova,COMM 4310 Global Marketing,ivk9yu@virginia.edu
-Professor,Isaac Mbiti,LPPA 6100: Economics of Public Policy I,imm9v@virginia.edu
-Professor,Isabella Femia,STAT 3080 	From Data to Knowledge,itf4ex@virginia.edu
-Professor,Israel Klich,PHYS 5880 Introduction to Quantum Computing,ik3j@virginia.edu
-Professor,Jackson Mccummings,"LPPL 2100: The Resilient Student: Transition, Thriving, and Leadership",jmm8sgz@virginia.edu
-Professor,James Burroughs,COMM 3330 Marketing Research & Analytic Techniques,jeb4n@virginia.edu
-Professor,James Cheng,STS 2850 Government and Entrepreneurship,jsc4cc@virginia.edu
+Professor,Hui Ma,APMA 3100 Probability,hm8j@virginia.edu
+Professor,Hui Ma,APMA 3110 Applied Statistics and Probability,hm8j@virginia.edu
+Professor,Ira Harris,COMM 3040 Strategic Value Creation,ich3x@virginia.edu
+Professor,Jack Davidson,CS 4630 Defense Against the Dark Arts,jwd@virginia.edu
+Professor,James Burns,MSE 4320 Origins of Mechanical Behavior,jtb5r@virginia.edu
+Professor,James Cheng,STS 2840 Entrepreneurial Finance,jsc4cc@virginia.edu
+Professor,James Fitz-Gerald,MSE 4210 Materials Processing,jmf8h@virginia.edu
 Professor,James Groves,STS 2050 Introduction to Sustainable Energy Systems,jfg6e@virginia.edu
-Professor,James Harrigan,ECON 4440: Economic Inequality,jh4xd@virginia.edu
-Professor,James Lee,STAT 3250 Data Analysis with Python,not allowed
-Professor,James Savage,LPPS 4220: Comparative Budgeting & Economic Policy,jds2y@virginia.edu
-Professor,James W. Lark,APMA 3120 Statstics,jwl3s@virginia.edu
-Professor,Jason Jones,STS 2500 Effective Altruism,jsj6y@virginia.edu
-Professor,Jayden Bolden,"LPPL 2100: The Resilient Student: Transition, Thriving, and Leadership",jab8xe@virginia.edu
+Professor,James Groves,STS 3210 The Global Context of Clean Energy Materials,jfg6e@virginia.edu
+Professor,James Lambert,SYS 4050 Risk Analysis,jhl6d@virginia.edu
+Professor,James Lambert,SYS 4054 Systems Design II,jhl6d@virginia.edu
+Professor,James Lark,APMA 3120 Statistics,jwl3s@virginia.edu
+Professor,James Maxham,COMM 4350 Customer Analytics and Brand Strategy,jgm3w@virginia.edu
+Professor,James Savage,LPPP 4559 New Course in Public Policy and Leadership,jds2y@virginia.edu
+Professor,Jason Jones,STS 2500 Science and Technology in Social and Global Context,jsj6y@virginia.edu
+Professor,Jason Williamson,DS 2002 Data Science Systems,jpw4ma@virginia.edu
+Professor,Jeffrey Holt,STAT 3080 From Data to Knowledge,itf4ex@virginia.edu
 Professor,Jeffrey Holt,STAT 3250 Data Analysis with Python,jjh2b@virginia.edu
+Professor,Jeffrey Holt,STAT 4996 Capstone,jjh2b@virginia.edu
 Professor,Jeffrey Leopold,COMM 3200 Project and Product Management,jrl6u@virginia.edu
-Professor,Jeffrey Woo,STAT 4630 Statistical Machine Learning,yjw4b@virginia.edu
-Professor,Jency Sundararajan,PHYS 2010 Principles of Physics 1 for Pre-Health Students,zey9gt@virginia.edu
-Professor,Jesse Helman,STAT 1602 	Introduction to Data Science with Python,jeh6kw@virginia.edu
-Professor,Jieun Pai,LPPP 6500: Topics in Public Policy,wdy4wk@virginia.edu
+Professor,Jeffrey Lovelace,COMM 2600 Leadership Across the Disciplines,jbl8f@virginia.edu
+Professor,Jeffrey Lovelace,COMM 4620 Strategic Leadership,jbl8f@virginia.edu
+Professor,Jeffrey Woo,STAT 4120 Applied Linear Models,yjw4b@virginia.edu
+Professor,Jency Sundararajan,PHYS 2020 Principles of Physics 2 for Pre-Health Students,zey9gt@virginia.edu
+Professor,Jennifer Winchel,COMM 3120 Intermediate Accounting II,jlw5ad@virginia.edu
+Professor,Jeremy Marcel,COMM 4559 New Course in Commerce,jjm4p@virginia.edu
+Professor,Jerrold Floro,MSE 2090 Introduction to Materials Science,jaf9r@virginia.edu
+Professor,Jess Reia,DS 2004 Data Ethics,dda8tz@virginia.edu
+Professor,Jesse Helman,STAT 3280 Data Visualization and Management,jeh6kw@virginia.edu
+Professor,Ji Ma,MSE 2200 Introduction to Additive Manufacturing and 3-D Printing,jm5bu@virginia.edu
 Professor,Jill Mitchell,COMM 2010 Introduction to Financial Accounting,jm9nb@virginia.edu
 Professor,Jill Mitchell,COMM 2020 Introduction to Management Accounting,jm9nb@virginia.edu
-Professor,Jim Cohoon,CS 1112 Introduction to Programming,jpc@virginia.edu
-Professor,Jing Gong,COMM 4559 New Course in Commerce,fnh9zj@virginia.edu
-Professor,Jingjing Li,COMM 4522 Topics in Business Analytics,jl9rf@virginia.edu
-Professor,John Robinson,LPPS 3340: Innovating for Defense: Defense Innovation and Problem-Solving,djr6nf@virginia.edu
-Professor,John Robinson,LPPS 7050: The National Security Process,djr6nf@virginia.edu
-Professor,Jongsoo Yoon,PHYS 1930 Physics in the 21st Century,jy2b@virginia.edu
-Professor,Jongsoo Yoon,PHYS 3170 Advanced Laboratory A,jy2b@virginia.edu
-Professor,Jordan Rodu,STAT 4800 Advanced Sports Analytics I,jsr6q@virginia.edu
-Professor,Jordan Rodu,STAT 5350 Applied Causal Inference,jsr6q@virginia.edu
-Professor,Joseph Poon,PHYS 3310 Statistical Physics,sjp9x@virginia.edu
-Professor,Joshua Earle,STS 4500 STS and Engineering Practice,hvk9xn@virginia.edu
-Professor,Julia Davis,LPPA 6150: Research Methods & Data Analysis I,jd3td@virginia.edu
-Professor,Julia Spencer,APMA 2130 Ordinary Differential Equations,jcs4hb@virginia.edu
-Professor,Julia Spencer,APMA 3110 Applied Statistics and Probablility,jcs4hb@virginia.edu
-Professor,Justin Weinstock,STAT 2120	Introduction to Statistical Analysis,jbw4df@virginia.edu
-Professor,Katharine Shriver,LPPP 2200: Introduction to Public Policy,brf2xg@virginia.edu
-Professor,Kathryn Neeley,"STS 4600 The Engineer, Ethics, and Professional Responsibility",kan8v@virginia.edu
-Professor,Katie McDermott,COMM 3110 Intermediate Accounting I,kem4cx@virginia.edu
-Professor,Katie Straight,LPPP 3250: Global Development Policy,kaw6f@virginia.edu
-Professor,Kenneth Elzinga,ECON 2010: Principles of Economics: Microeconomics,elzinga@virginia.edu
-Professor,Kent Wayland,STS 4500 STS and Engineering Practice,kaw6r@virginia.edu
-Professor,Kevin Skadron,CS 4414 Operating Systems,ks7h@virginia.edu
-Professor,Kevin Sullivan,CS 2120 Discrete Mathematics and Theory 1,kjs5d@virginia.edu
-Professor,Kiera Allison,COMM 4644 Persuasion & Influence,ka6x@virginia.edu
-Professor,Kirsten Gelsdorf,LPPS 3295: Global Humanitarian Crises Response,kg8v@virginia.edu
+Professor,Jim Rolf,MATH 1320 Calculus II,jsr2pz@virginia.edu
+Professor,Jing Gong,COMM 3220 Database Management Systems and Business Intelligence,fnh9zj@virginia.edu
+Professor,Joe Webster,MATH 3250 Ordinary Differential Equations,nsr6sf@virginia.edu
+Professor,John Comazzi,ARCH 4020 Independent Design Research Studio,jjc9g@virginia.edu
+Professor,John Hossack,BME 3310 Biomedical Systems Analysis and Design,jh7fj@virginia.edu
+Professor,John Imbrie,MATH 3100 Introduction to Probability,ji2k@virginia.edu
+Professor,John Mclaren,ECON 4230 Seminar on Trade and Development,jem6x@virginia.edu
+Professor,Jon Ihlefeld,MSE 3101 Materials Science Investigations,jfi4n@virginia.edu
+Professor,Jon Tupitza,DS 2002 Data Science Systems,wna8fw@virginia.edu
+Professor,Jonathan Goodall,SYS 4054 Systems Design II,jlg7h@virginia.edu
+Professor,Jonathan Turner,BME 2220 Biomechanics,jt5hg@virginia.edu
+Professor,Jongsoo Yoon,PHYS 3040 Physics of the Human Body,jy2b@virginia.edu
+Professor,Jordan Rodu,STAT 4996 Capstone,jsr6q@virginia.edu
+Professor,Joshua Choi,APMA 3100 Probability,jjc6z@virginia.edu
+Professor,Joshua Earle,"STS 4600 The Engineer, Ethics, and Professional Responsibility",hvk9xn@virginia.edu
+Professor,JT Bachman,ARCH 3020 Foundation Studio V,jb7mx@virginia.edu
+Professor,Julianne Quinn,SYS 4054 Systems Design II,jdq6nn@virginia.edu
+Professor,Julie Spencer,APMA 2130 Ordinary Differential Equations,jcs4hb@virginia.edu
+Professor,Jundong Li,APMA 3100 Probability,jl6qk@virginia.edu
+Professor,Juraj Foldes,MATH 3315 Advanced Calculus and Linear Algebra II,jf8dc@virginia.edu
+Professor,Justin Weinstock,STAT 2120 Introduction to Statistical Analysis,jbw4df@virginia.edu
+Professor,Kang Lu,MATH 3351 Elementary Linear Algebra,wbt4qn@virginia.edu
+Professor,Karen Van Lengen,ARCH 4020 Independent Design Research Studio,kv3f@virginia.edu
+Professor,Katie MacDonald,ARCH 3020 Foundation Studio V,km4wu@virginia.edu
+Professor,Keith Nabb,MATH 1140 Financial Mathematics,axv9hp@virginia.edu
+Professor,Keith Williams,ECE 2502 Special Topics in Electrical and Computer Engineering,kaw7y@virginia.edu
+Professor,Kent Paschke,PHYS 3250 Applied Nuclear Physics,kdp2c@virginia.edu
+Professor,Kent Wayland,STS 1501 Special Topics in Engineering and Society,kaw6r@virginia.edu
+Professor,Kent Wayland,"STS 4600 The Engineer, Ethics, and Professional Responsibility",kaw6r@virginia.edu
+Professor,Kerem Cosar,ECON 4210 International Trade: Theory and Policy,ac2eq@virginia.edu
+Professor,Kerrie Carfagno,COMM 4821 Managing Sustainable Development,kac3gk@virginia.edu
+Professor,Kerrie Carfagno,COMM 3040 Strategic Value Creation,kac3gk@virginia.edu
+Professor,Kevin Janes,BME 4370 Quantitative Biological Reasoning,kaj5f@virginia.edu
+Professor,Kiera Allison,COMM 4644 Persuasion and Influence,ka6x@virginia.edu
+Professor,Kiera Allison,COMM 3040 Strategic Value Creation,ka6x@virginia.edu
+Professor,Krista Varanyak,STAT 3080 From Data to Knowledge,kmv9q@virginia.edu
 Professor,Krista Varanyak,STAT 3220 Introduction to Regression Analysis,kmv9q@virginia.edu
-Professor,Kristen Roorbach,LPPS 3370: Trauma and the US Public School System,kar3c@virginia.edu
-Professor,Kyndall Walker,"LPPL 2100: The Resilient Student: Transition, Thriving, and Leadership",kmw6at@virginia.edu
-Professor,Lee Coppock,ECON 4300: Public Choice,coppock@virginia.edu
-Professor,Leland Farmer,ECON 3720: Introduction to Econometrics,lefarmer@virginia.edu
-Professor,Lidia Kosenkova,ECON  8710: Cross Section Econometrics,lk7cb@virginia.edu
-Professor,Lidia Kosenkova,ECON 4720: Econometric Methods,lk7cb@virginia.edu
-Professor,Lidia Kosenkova,ECON 5720: Econometric Methods,lk7cb@virginia.edu
-Professor,Lu Feng,CS 4710 Artificial Intelligence,lf9u@virginia.edu
-Professor,Madhav Nair,"LPPL 2100: The Resilient Student: Transition, Thriving, and Leadership",msn6xb@virginia.edu
-Professor,Madison McCaffrey,LPPA 3640: Research Methods and Data Analysis in Public Policy,xzh6fr@virginia.edu
-Professor,Maksim Bychkov,PHYS 1429 Introductory Physics 1 Workshop,mab3ed@virginia.edu
-Professor,Maksim Bychkov,PHYS 2030 Principles of Physics 1 Workshop,mab3ed@virginia.edu
-Professor,Maksim Bychkov,PHYS 2419 Introductory Physics 2 Workshop,mab3ed@virginia.edu
-Professor,Marc Santugini,ECON 2010: Principles of Economics: Microeconomics,ms3ae@virginia.edu
-Professor,Marc Santugini,ECON 3010: Intermediate Microeconomics,ms3ae@virginia.edu
+Professor,Kristen Naegle,BME 4550 Special Topics in Biomedical Engineering,kmn4mj@virginia.edu
+Professor,Kristen Roorbach,"LPPS 3380 Poverty, Learning, and Education Policy",kar3c@virginia.edu
+Professor,Kristen Roorbach,LPPS 3390 Special Education Policy and Practice,kar3c@virginia.edu
+Professor,Kristen Scheckelhoff,MATH 1220 A Survey of Calculus II,no results
+Professor,Kristina Cernekova,MATH 1220 A Survey of Calculus II,kc5kv@virginia.edu
+Professor,Kristina Cernekova,MATH 1320 Calculus II,kc5kv@virginia.edu
+Professor,Kyle Lampe,CHE 6561 Special Topics in Chemical Engineering,kjl2n@virginia.edu
+Professor,Kyle Schumann,ARCH 3021 Design Thinking Studio II,ks7hg@virginia.edu
+Professor,Kyle Schumann,ARCH 5500 Special Topics in Architecture,ks7hg@virginia.edu
+Professor,Kyle Sturgeon,ARCH 2220 Principles of Tectonics,kas6m@virginia.edu
+Professor,Kyusang Lee,ENGR 2500 Introduction to Nanoscience and Technology,kl6ut@virginia.edu
+Professor,Lanfei Shi,COMM 3220 Database Management Systems and Business Intelligence,ls4tj@virginia.edu
+Professor,Larry Sabato,LPPS 3280 Lessons in Leadership: JFK and the Most Personal Office,ljs@virginia.edu
+Professor,Lauren McQuistion,ARCH 1030 Foundation Studio I,ks7hg@virginia.edu
+Professor,Lee Coppock,ECON 2020 Principles of Economics: Macroeconomics,lc7p@virginia.edu
+Professor,Lee Lockwood,ECON 4310 Economics of the Public Sector,lml9g@virginia.edu
+Professor,Lee Lockwood,ECON 4880 Seminar in Policy Analysis,lml9g@virginia.edu
+Professor,Leidy Klotz,ARCH 5114 Sustainability and Systems in the Built Environment,lk6me@virginia.edu
+Professor,Leonid Petrov,MATH 3340 Complex Variables with Applications,lap5r@virginia.edu
+Professor,Leonid Zhigilei,MSE 4270 Introduction to Atomistic Simulations,lz2n@virginia.edu
+Professor,Leslie Williams,MAE 4502 Special Topics in Mechanical Engineering,lhw3a@virginia.edu
+Professor,Liheng Cai,MSE 2090 Introduction to Materials Science,lc2ta@virginia.edu
+Professor,Lin Ma,MAE 3140 Elements of Heat and Mass Transfer,lm4wb@virginia.edu
+Professor,Lin Ma,MAE 3220 Aerodynamics,lm4wb@virginia.edu
+Professor,Lindsay Schiller,SARC 5711 CPT Internship,lms7yk@virginia.edu
+Professor,Loreto Alonzi,DS 4002 Data Science Project Course,lpa2a@virginia.edu
+Professor,Loreto Alonzi,DS 1001 Foundation of Data Science,lpa2a@virginia.edu
+Professor,Lyangela Gutierrez,LPPL 2600 Foundations of Behavioral Science,gtp6fr@virginia.edu
+Professor,Maksim Bychkov,PHYS 2020 Principles of Physics 2 for Pre-Health Students,mab3ed@virginia.edu
+Professor,Marc Santugini,ECON 2010 Principles of Economics: Microeconomics,ms3ae@virginia.edu
+Professor,Marc Santugini,ECON 4095 Dynamic Economics with Applications,ms3ae@virginia.edu
+Professor,Marc Santugini,"ECON 4170 The Economics of Risk, Uncertainty, and Information",ms3ae@virginia.edu
+Professor,Marc Santugini,ECON 4559 New Course in Economics,ms3ae@virginia.edu
 Professor,Marcia Pentz,COMM 4643 Advanced Business Speaking,mlp6h@virginia.edu
-Professor,Marek-Jerzy Pindera,APMA 3080 Linear Algebra,mp3g@virginia.edu
-Professor,Margaret Edwards,"LPPL 2100: The Resilient Student: Transition, Thriving, and Leadership",me8n@virginia.edu
+Professor,Marek-Jerzy Pindera,MAE 2310 Strength of Materials,mp3g@virginia.edu
 Professor,Maria Ferrara,STAT 2020 Statistics for Biologists,mcf8sr@virginia.edu
-Professor,Maria Westerfield,ECON 3010: Intermediate Microeconomics,mam2p@virginia.edu
-Professor,Maria Westerfield,ECON 3020: Intermediate Macroeconomics,mam2p@virginia.edu
-Professor,Marija Vucelja,PHYS 3110 Widely Applied Physics,mv8h@virginia.edu
-Professor,Mark Floryan,CS 3100 Data Structures and Algorithms 2,mrf8t@virginia.edu
+Professor,Maria Ferrara,STAT 4160 Experimental Design,mcf8sr@virginia.edu
+Professor,Maria Westerfield,ECON 3020 Intermediate Macroeconomics,mam2p@virginia.edu
+Professor,Maria Westerfield,ECON 4080 Law and Economics,mam2p@virginia.edu
+Professor,Marija Vucelja,PHYS 3420 Electricity and Magnetism I,mv8h@virginia.edu
+Professor,Mark Metcalf,COMM 4559 New Course in Commerce,mlm6fk@virginia.edu
+Professor,Mark Pengitore,MATH 3310 Basic Real Analysis,waj9cr@virginia.edu
+Professor,Mark Plant,ECON 3640 The Economics of Africa,mwp9fk@virginia.edu
 Professor,Mark Sherriff,CS 3240 Advanced Software Development Techniques,mss2x@virginia.edu
-Professor,Mark Sherriff,CS 4720 Mobile Application Development,mss2x@virginia.edu
-Professor,Mark Thomas,ECON 2060: American Economic History,mt4w@virginia.edu
-Professor,Marsh Pattie,"LPPL 2100: The Resilient Student: Transition, Thriving, and Leadership",jmp8r@virginia.edu
-Professor,Mary Luzar,"LPPL 2100: The Resilient Student: Transition, Thriving, and Leadership",mew8f@virginia.edu
-Professor,Matthew Dwyer,CS 4620 Compilers,md3cn@virginia.edu
-Professor,Maxim Engers,ECON 3110: Mathematical Microeconomics,mpe2m@virginia.edu
-Professor,Maxim Engers,ECON 4010: Game Theory,mpe2m@virginia.edu
-Professor,Maxim Engers,ECON 5559: New Course in Economics,mpe2m@virginia.edu
-Professor,MC Forelle,STS 4500 STS and Engineering Practice,mcf7sc@virginia.edu
-Professor,Megan Ryals,APMA 2120 Multivariable Calculus,ryals@virginia.edu
-Professor,Megan Ryals,APMA 3100 Probability,ryals@virginia.edu
-Professor,Meiqin Li,APMA 1110 Single Variable Calculus II,ml2vq@virginia.edu
+Professor,Mark Sherriff,CS 4730 Computer Game Design,mss2x@virginia.edu
+Professor,Mark Thomas,ECON 3559 New Course in Economics,mt4w@virginia.edu
+Professor,Mark White,COMM 4822 Invest in Sustainable Future,maw3u@virginia.edu
+Professor,Matthew Busch,LPPP 2559 New Course in Public Policy and Leadership,udy7dz@virginia.edu
+Professor,Matthew Demers,MATH 1190 A Survey of Calculus I with Algebra,zka4tz@virginia.edu
+Professor,Matthew Panzer,MAE 4502 Special Topics in Mechanical Engineering,mbp2q@virginia.edu
+Professor,Maya Drake,ENGR 2595 Special Topics in Engineering,mel2j@virginia.edu
+Professor,MC Forelle,"STS 4600 The Engineer, Ethics, and Professional Responsibility",mcf7sc@virginia.edu
+Professor,Megan Ryals,APMA 3100 Probability,mr4ha@virginia.edu
+Professor,Megan Ryals,APMA 3501 Special Topics in Applied Mathematics,mr4ha@virginia.edu
 Professor,Meiqin Li,APMA 3080 Linear Algebra,ml2vq@virginia.edu
-Professor,Miaomiao Zhang,CS 4501 Special Topics in Computer Science,mz8rr@virginia.edu
-Professor,Michele Claibourn,LPPP 6500: Topics in Public Policy,mpc8t@virginia.edu
-Professor,Michele Claibourn,LPPS 5360: Imagining Equitable Policy,mpc8t@virginia.edu
-Professor,Milton Whitfield,STS 2730 Engineers & the Art of the Deal,mbw3bf@virginia.edu
-Professor,Milton Whitfield,STS 2760 Technology and Policy: Where Intent Meets Process,mbw3bf@virginia.edu
+Professor,Melissa Goldman,ARCH 5500 Special Topics in Architecture,meg3kx@virginia.edu
+Professor,Miaomiao Zhang,CS 3501 Special Topics in Computer Science,mz8rr@virginia.edu
+Professor,Miaomiao Zhang,ECE 3502 Special Topics in Electrical and Computer Engineering,mz8rr@virginia.edu
+Professor,Michael Gallmeyer,COMM 4733 Advanced Investments: Asset Management in the Global Economy,mfg4h@virginia.edu
+Professor,Michael King,CHE 4456 Bioproduct and Bioprocess Engineering,mlk4sf@virginia.edu
+Professor,Michael King,CHE 5456 Bioproduct and Bioprocess Eng,mlk4sf@virginia.edu
+Professor,Michael Momot,MAE 3620 Machine Elements and Fatigue in Design,mm4jw@virginia.edu
+Professor,Michael Momot,MAE 4620 Mechanical Engineering Design II,mm4jw@virginia.edu
+Professor,Michael Momot,MAE 4730 Introduction to Automatic Controls,mm4jw@virginia.edu
+Professor,Michael Moore,ECON 4110 Competitive Strategy,mjm8w@virginia.edu
+Professor,Michael Moore,ECON 4445 Policy Analysis,mjm8w@virginia.edu
+Professor,Michael Nolde,LPPS 4730 Impact Investing,mpn5a@virginia.edu
+Professor,Michael Porter,SYS 4582 Selected Topics in Systems Engineering,mdp2u@virginia.edu
+Professor,Michael Smith,SYS 4054 Systems Design II,mcs5f@virginia.edu
+Professor,Michael Wills,MATH 1210 A survey of Calculus I,muf5cz@virginia.edu
+Professor,Milton Whitfield,STS 2500 Science and Technology in Social and Global Context,mbw3bf@virginia.edu
 Professor,Mingyu Qi,STAT 1100 Chance: An Introduction to Statistics,mq3sq@virginia.edu
+Professor,Mircea Stan,ECE 4550 Applied Research and Design Lab,mrs8n@virginia.edu
+Professor,Mohammad Islam,BME 4550 Special Topics in Biomedical Engineering,wpt7ma@virginia.edu
+Professor,Molly Lipscomb,LPPA 3650 Choice and Consequences: The Economics of Public Policy,ml4db@virginia.edu
+Professor,Mona El Khafif,ARCH 4020 Independent Design Research Studio,me9gn@virginia.edu
+Professor,Mona El Khafif,ARCH 5614 Urban Strategies,me9gn@virginia.edu
+Professor,Mona Zebarjadi,ECE 4103 Solid State Devices for Renewable Energy Conversion,mz6g@virginia.edu
+Professor,Mona Zebarjadi,MSE 4592 Special Topics in Materials Science,mz6g@virginia.edu
 Professor,Monika Abramenko,APMA 1110 Single Variable Calculus II,ma2ke@virginia.edu
 Professor,Monika Abramenko,APMA 3080 Linear Algebra,ma2ke@virginia.edu
-Professor,Moonju Cho,ECON 5559: New Course in Economics,mc4zh@virginia.edu
-Professor,Nada Basit,CS 2100 Data Structures and Algorithms 1,nb3f@virginia.edu
-Professor,Naseemah Mohamed,LPPS 5330: Education and Conflict,egu8ng@virginia.edu
-Professor,Natasha Foutz,COMM 4351 Marketing Analytics for Big Data,ynf8a@virginia.edu
-Professor,Nathan Brunelle,CS 2120 Discrete Mathematics and Theory 1,njb2b@virginia.edu
-Professor,Nathan Brunelle,CS 3102 Theory of Computation,njb2b@virginia.edu
-Professor,Neal Magee,CS 4740 Cloud Computing,nem2p@virginia.edu
-Professor,Nilanga Liyanage,PHYS 1010: The Physical Universe, nl8n@virginia.edu
-Professor,Noah Gade,STAT 3280 Data Visualization and Management,ndg5e@virginia.edu
-Professor,Noah Myung,LPPA 3640: Research Methods and Data Analysis in Public Policy,nm3yy@virginia.edu
+Professor,Natalie Kupperman,DS 1002 Programming for Data Science,nak5dy@virginia.edu
+Professor,Natalie Kupperman,DS 2003 Communicating with Data,nak5dy@virginia.edu
+Professor,Natasha Smith,MAE 2330 Mechanics Laboratory,nls5m@virginia.edu
+Professor,Natasha Smith,MAE 3840 Mechanical Engineering Laboratory,nls5m@virginia.edu
+Professor,Nathan Brunelle,CS 3100 Data Structures and Algorithms 2,njb2b@virginia.edu
+Professor,Neal Morgan,MAE 3210 Fluid Mechanics,nrm6dr@virginia.edu
+Professor,Neal Morgan,MAE 3820 Aerodynamics Laboratory,nrm6dr@virginia.edu
+Professor,Negin Alemazkoor,SYS 4582 Selected Topics in Systems Engineering,na7fp@virginia.edu
+Professor,Nick Vecchiarello,CHE 3322 Transport Processes II: Heat and Mass Transfer,qzv7pp@virginia.edu
+Professor,Nicola Bezzo,SYS 4054 Systems Design II,nb6be@virginia.edu
+Professor,Nicola Bezzo,ECE 4502 Special Topics in Electrical and Computer Engineering,nb6be@virginia.edu
+Professor,Nicola Bezzo,SYS 3062 Discrete Event Simulation,nb6be@virginia.edu
+Professor,Nicole Montgomery,COMM 4370 Digital Strategy and Analytics,nvm4n@virginia.edu
+Professor,Nikhil Shukla,ECE 4502 Special Topics in Electrical and Computer Engineering,ns6pf@virginia.edu
+Professor,Nilanga Liyanage,PHYS 3120 Applied Physics: Energy,nl8n@virginia.edu
+Professor,Oz Ozburn,ARCH 5500 Special Topics in Architecture,alo3f@virginia.edu
 Professor,Panagiotis Apostolellis,CS 1111 Introduction to Programming,pa7xu@virginia.edu
 Professor,Panagiotis Apostolellis,CS 3205 HCI in Software Development,pa7xu@virginia.edu
-Professor,Patrik Sandas,COMM 4710 Intermediate Investments,pvs6f@virginia.edu
-Professor,Paul Martin,LPPP 3620: Engaging Policy Communities,psm4d@virginia.edu
-Professor,Paul Martin,LPPS 4320: Elections and Policy,psm4d@virginia.edu
-Professor,Paul Martin,LPPS 6320: Elections & Policy in the Era of Democratic Backsliding,psm4d@virginia.edu
-Professor,Paul McBurney,CS 3140 Software Development Essentials,pm8fc@virginia.edu
-Professor,Paul McBurney,CS 3240 Advanced Software Development Techniques,pm8fc@virginia.edu
+Professor,Pat Kelly,ENGR 4880 Business and Technical Leadership in Engineering,tpk2cd@virginia.edu
+Professor,Patrick Dennis,COMM 4710 Intermediate Investments,pjd9v@virginia.edu
+Professor,Patrick Dennis,COMM 4730 Advanced Investments: Derivatives and Fixed Income,pjd9v@virginia.edu
+Professor,Patrik Sandas,COMM 4731 Advanced Investments: Principles of Securities Trading,pvs6f@virginia.edu
+Professor,Paul Martin,LPPS 3559 New Course in Public Policy and Leadership,psm4d@virginia.edu
+Professor,Paul Martin,LPPS 5559 New Course in Public Policy and Substance,psm4d@virginia.edu
 Professor,Paul Seaborn,COMM 4660 Management Consulting and Advisory Services,ps7wx@virginia.edu
-Professor,Paul Seaborn,COMM 4690 Global Management,ps7wx@virginia.edu
-Professor,Peter Arnold,PHYS 3650 Quantum Physics I,pa6z@virginia.edu
-Professor,Peter Johannessen,LPPP 2200: Introduction to Public Policy,pgj4d@virginia.edu
-Professor,Peter Johannessen,LPPP 3255: Comparative Policy History,pgj4d@virginia.edu
-Professor,Peter Maillet,COMM 4741 Foundations of Global Commerce,pam5x@virginia.edu
-Professor,Peter Norton,STS 4500 STS and Engineering Practice,pdn2p@virginia.edu
-Professor,Peter Schauss,PHYS 3430 Electricity and Magnetism II,ps5nw@virginia.edu
-Professor,Peter Schauss,PHYS 5110 Special Topics in Classical and Modern Physics,ps5nw@virginia.edu
-Professor,Phoebe Crisman,COMM 3880 Global Sustainability,pc4v@virginia.edu
+Professor,Paul Seaborn,COMM 4881 Leadership Practicum,ps7wx@virginia.edu
+Professor,Pedro Francisco,"STS 4600 The Engineer, Ethics, and Professional Responsibility",wxh7ny@virginia.edu
+Professor,Petch Chueluecha,MATH 1210 A survey of Calculus I,guc8ns@virginia.edu
+Professor,Peter Johannessen,LPPP 2200 Introduction to Public Policy,pgj4d@virginia.edu
+Professor,Peter Norton,"STS 4600 The Engineer, Ethics, and Professional Responsibility",pdn2p@virginia.edu
+Professor,Peter Schauss,PHYS 2415 Introductory Physics 2 for Engineers,ps5nw@virginia.edu
+Professor,Peter Troyan,ECON 3010 Intermediate Microeconomics,pgt8y@virginia.edu
+Professor,Peter Troyan,ECON 3010 Intermediate Microeconomics,pgt8y@virginia.edu
+Professor,Peter Waldman,ARCH 4020 Independent Design Research Studio,pdw7e@virginia.edu
+Professor,Polina Landgraf,COMM 3330 Marketing Research and Analytic Techniques,ysk3we@virginia.edu
+Professor,Prasanna Balachandran,MAE 3420 Computational Methods in Mechanical and Aerospace Engineering,pvb5e@virginia.edu
 Professor,Prince Afriyie,STAT 1601 Introduction to Data Science with R,pa5jg@virginia.edu
+Professor,Qing Chang,MAE 2320 Dynamics,qc9nq@virginia.edu
+Professor,Rafael Alvarado,DS 5001 Exploratory Text Analytics,rca2t@virginia.edu
 Professor,Raymond Pettit,CS 1110 Introduction to Programming,rp6zr@virginia.edu
-Professor,Renee' Bryan,"LPPL 2100: The Resilient Student: Transition, Thriving, and Leadership",reb8dz@virginia.edu
+Professor,Rebecca Grouchy,PHYS 1425 Introductory Physics 1 for Engineers,yus6fy@virginia.edu
+Professor,Reid Bailey,ENGR 1420 Synthesis Design II,rrb5b@virginia.edu
+Professor,Reid Bailey,SYS 2502 Special Topics in Systems and Information Engineering,rrb5b@virginia.edu
+Professor,Reid Bailey,SYS 3034 System Evaluation,rrb5b@virginia.edu
+Professor,Reza Mousavi,COMM 4522 Topics in Business Analytics,rm6uz@virginia.edu
 Professor,Rich Nguyen,CS 3140 Software Development Essentials,nn4pj@virginia.edu
-Professor,Rich Nguyen,CS 4774 Machine Learning,nn4pj@virginia.edu
-Professor,Richard Jacques,STS 4500 STS and Engineering Practice,rdj4n@virginia.edu
-Professor,Richard Ross,STAT 2120	Introduction to Statistical Analysis,rr3pp@virginia.edu
+Professor,Richard Campanelli,LPPP 4210 Integrating Ethics in Public Policy,rmc7xf@virginia.edu
+Professor,Richard Jacques,"STS 4600 The Engineer, Ethics, and Professional Responsibility",rdj4n@virginia.edu
+Professor,Richard Kent,MAE 2310 Strength of Materials,rwk3c@virginia.edu
+Professor,Richard Lindgren,PHYS 1060 How Things Work,ral5q@virginia.edu
+Professor,Richard Martukanitz,MSE 4592 Special Topics in Materials Science,rm6px@virginia.edu
+Professor,Richard Ross,STAT 1602 Introduction to Data Science with Python,rr3pp@virginia.edu
 Professor,Richard Ross,STAT 3120 Introduction to Mathematical Statistics,rr3pp@virginia.edu
-Professor,Richard Ross,STAT 3480 Nonparametric and Rank-Based Statistics,rr3pp@virginia.edu
-Professor,Rider Foley,STS 1501 Ethics in Engineering,rwf6v@virginia.edu
-Professor,Rider Foley,STS 4500 STS and Engineering Practice,rwf6v@virginia.edu
+Professor,Richard Ross,STAT 3280 Data Visualization and Management,rr3pp@virginia.edu
+Professor,Rick Carew,COMM 4251 Digital Safari,rcc3s@virginia.edu
+Professor,Rick Marshall,PHYS 3140 Intermediate Laboratory,"
+rmm5a@virginia.edu"
+Professor,Rider Foley,STS 3020 Science and Technology Policy for Interns,rwf6v@virginia.edu
+Professor,Rider Foley,"STS 4600 The Engineer, Ethics, and Professional Responsibility",rwf6v@virginia.edu
 Professor,Rob Archer,STS 4810 New Product Development,rja2u@virginia.edu
 Professor,Robbie Hott,CS 2130 Computer Systems and Organization 1,jh2jf@virginia.edu
-Professor,Robert Group,PHYS 1559 New Course in Physics,rcg6p@virginia.edu
-Professor,Robert Hirosky,PHYS 2660 Fundamentals of Scientific Computing,rjh2j@virginia.edu
-Professor,Robert Jones,"PHYS 2410 Introductory Physics 2: Electricity, Magnetism and Optics",rrj3c@virginia.edu
-Professor,Robert Webb,COMM 5700 Financial Trading,riw4j@virginia.edu
-Professor,Robert Williams,APMA 2130 Ordinary Differential Equations,rt9aa@virginia.edu
+Professor,Robert Davis,CHE 3318 Chemical Reaction Engineering,rjd4f@virginia.edu
+Professor,Robert Group,PHYS 1655 Introduction to Python for Scientists and Engineers,rcg6p@virginia.edu
+Professor,Robert Kelly,MSE 2090 Introduction to Materials Science,rgk6y@virginia.edu
+Professor,Robert Parham,COMM 3720 Intermediate Corporate Finance,rp4wf@virginia.edu
+Professor,Robert Patterson,COMM 4641 Public Speaking and Persuasion,rep2z@virginia.edu
+Professor,Robert Riggs,SYS 3060 Stochastic Decision Models,rr3bd@virginia.edu
+Professor,Robert Riggs,SYS 3502 Special Topics in Systems and Information Engineering,rr3bd@virginia.edu
+Professor,Robert Riggs,SYS 4053 Systems Design I,rr3bd@virginia.edu
+Professor,Robert Riggs,SYS 4054 Systems Design II,rr3bd@virginia.edu
+Professor,Robert Weikle,ECE 4265 Microwave Engineering Laboratory,rmw5w@virginia.edu
+Professor,Robert Williams,APMA 2120 Multivariable Calculus,rtw9aa@virginia.edu
 Professor,Roman Krzysztofowicz,APMA 3100 Probability,rk@virginia.edu
-Professor,Ronald Michener,ECON 3720: Introduction to Econometrics,rwm3n@virginia.edu
-Professor,Rosalyn Berne,STS 2500 Engineering Ethics,rwb@virginia.edu
-Professor,Sanket Korgaonkar,COMM 4790 Fundamentals of Real Estate Analysis,sk6ux@virginia.edu
-Professor,Sarah Emily Waldinger,LPPA 3640: Research Methods and Data Analysis in Public Policy,qkx2bz@virginia.edu
-Professor,Sarah Turner,ECON 4990: Distinguished Majors Seminar,set5h@virginia.edu
-Professor,Sebastian Elbaum,CS 4501 Special Topics in Computer Science,se4ja@virginia.edu
-Professor,Shan Aman-Rana,ECON 5090: Introduction to Mathematical Economics I,sa8ey@virginia.edu
-Professor,Shan Yu,STAT 5330 Data Mining,sy5jx@virginia.edu
-Professor,Sheetal Sekhri,ECON 4559: New Course in Economics,ss5mj@virginia.edu
-Professor,Sheisha Kulkarni,COMM 4710 Intermediate Investments,sk7nn@virginia.edu
+Professor,Ronald Michener,ECON 3720 Introduction to Econometrics,rwm3n@virginia.edu
+Professor,Ronald Unnerstall,CHE 4445 Fundamentals of Process Safety,rju2qc@virginia.edu
+Professor,Ronald Unnerstall,CHE 6445 Fundamentals of Process Safety,rju2qc@virginia.edu
+Professor,Rosalyn Berne,STS 2500 Science and Technology in Social and Global Context,rwb@virginia.edu
+Professor,Roseanne Ford,CHE 6630 Mass Transfer,rmf3f@virginia.edu
+Professor,Roseanne Ford,CHE 6630 Mass Transfer,rmf3f@virginia.edu
+Professor,Rupa Valdez,SYS 4054 Systems Design II,rsv9d@virginia.edu
+Professor,Sanda Iliescu,ARCH 5500 Special Topics in Architecture,sdi5h@virginia.edu
+Professor,Sanda Iliescu,ARCH 5780 Painting and Public Art,sdi5h@virginia.edu
+Professor,Sara Riggs,SYS 4054 Systems Design II,sr4ex@virginia.edu
+Professor,Sara Riggs,SYS 4582 Selected Topics in Systems Engineering,sr4ex@virginia.edu
+Professor,Sarah Sun,MAE 4620 Mechanical Engineering Design II,dzv7sg@virginia.edu
+Professor,Schaeffer Somers,ARCH 3020 Foundation Studio V,ses3k@virginia.edu
+Professor,Seongkook Heo,CS 4501 Special Topics in Computer Science,sh8pz@virginia.edu
+Professor,Sergei Egorov,CHE 5562 Special Topics in Chemical Engineering,sae6z@virginia.edu
+Professor,Seth McDowell,ARCH 3260 Building Matters,asm8f@virginia.edu
+Professor,Shan Aman-Rana,ECON 4610 Economic Development,sa8ey@virginia.edu
+Professor,Shan Aman-Rana,ECON 4610 Economic Development,sa8ey@virginia.edu
+Professor,Shannon Barker,BME 4064 Biomedical Engineering Capstone Design II,sb3xk@virginia.edu
+Professor,Sheetal Sekhri,ECON 4430 Environmental Economics,ss5mj@virginia.edu
+Professor,Shengkuan Yan,MATH 1310 Calculus I,sy8vb@virginia.edu
 Professor,Sherri Moore,COMM 3410 Commercial Law I,spe8x@virginia.edu
 Professor,Sherri Moore,COMM 3420 Commercial Law II,spe8x@virginia.edu
-Professor,Simon Anderson,ECON 4390: The Economic Theory of Advertising,sa9w@virginia.edu
-Professor,Sophie Trawalter,LPPL 4660: Value and Bias in Public Policy,st2pa@virginia.edu
+Professor,Shunyu Wan,MATH 1310 Calculus I,sw6vm@virginia.edu
+Professor,Slava Krushkal,MATH 4750 Introduction to Knot Theory,vk6e@virginia.edu
 Professor,Stacie Pisano,APMA 1110 Single Variable Calculus II,sp7h@virginia.edu
-Professor,Stefan Ruediger,ECON 3720: Introduction to Econometrics,gyq8rh@virginia.edu
-Professor,Stefan Ruediger,LPPP 3559: New Course in Public Policy and Leadership,gyq8rh@virginia.edu
-Professor,Stefano Grazioli,COMM 3220 Database Management Systems and Business Intelligence,sg6m@virginia.edu
-Professor,Suprateek Sarker,COMM 3220 Database Management Systems and Business Intelligence,ss6wf@virginia.edu
-Professor,Susan Porter,COMM 4450 Federal Taxation,slp7m@virginia.edu
-Professor,Sydney Campbell,STAT 1602 	Introduction to Data Science with Python,sac5up@virginia.edu
-Professor,Taylor Brown,STAT 5430 Statistical Computing with Python and R,trb5me@virginia.edu
-Professor,Terence Johnson,ECON 4030: Market Design: Engineering a Better World,
-Professor,Terrell Pittman,"LPPL 2100: The Resilient Student: Transition, Thriving, and Leadership",dme2fp@virginia.edu
-Professor,Tianhao Wang,CS 4501 Special Topics in Computer Science,nkp2mr@virginia.edu
-Professor,Timothy Davis,LPPL 3450: Resilient Leadership for Teams and Teammates,tld8n@virginia.edu
-Professor,Tom Horton,CS 2100 Data Structures and Algorithms 1,tbh3f@virginia.edu
+Professor,Stefan Baessler,"PHYS 1420 Introductory Physics 1: Classical Mechanics, Waves, and Thermodynamics",sfb5d@virginia.edu
+Professor,Stefan Ruediger,ECON 3720 Introduction to Econometrics,gyq8rh@virginia.edu
+Professor,Stefano Grazioli,COMM 4230 Fintech: Information Technology in Finance,sg6m@virginia.edu
+Professor,Stephen McDonnell,MSE 2090 Introduction to Materials Science,sjm3qf@virginia.edu
+Professor,Steven Bowers,ECE 4660 Analog Integrated Circuits,smb9cz@virginia.edu
+Professor,Steven Caliari,BME 4417 Tissue Engineering,sc6au@virginia.edu
+Professor,Steven Caliari,CHE 4417 Tissue Engineering,sc6au@virginia.edu
+Professor,Steven Caliari,CHE 5562 Special Topics in Chemical Engineering,sc6au@virginia.edu
+Professor,Steven Johnson,COMM 4559 New Course in Commerce,steven@virginia.edu
+Professor,Steven Peterson,ECON 4360 Empirical Finance,spp7q@virginia.edu
+Professor,Steven Peterson,ECON 4559 New Course in Economics,spp7q@virginia.edu
+Professor,Sushma Shukla,ECON 3559 New Course in Economics,vyr5cf@virginia.edu
+Professor,Tai Melcher,MATH 3100 Introduction to Probability,tam7b@virginia.edu
+Professor,Tai Melcher,MATH 4110 Introduction to Stochastic Processes,tam7b@virginia.edu
+Professor,Tao Sun,MSE 4592 Special Topics in Materials Science,ts7qw@virginia.edu
+Professor,Tariq Iqbal,CS 4501 Special Topics in Computer Science,ti3fe@virginia.edu
+Professor,Tariq Iqbal,SYS 4054 Systems Design II,ti3fe@virginia.edu
+Professor,Tariq Iqbal,SYS 4582 Selected Topics in Systems Engineering,ti3fe@virginia.edu
+Professor,Tariq Iqbal,ECE 4502 Special Topics in Electrical and Computer Engineering,ti3fe@virginia.edu
+Professor,Taylor Brown,STAT 1601 Introduction to Data Science with R,trb5me@virginia.edu
+Professor,Taylor Brown,STAT 4160 Experimental Design,trb5me@virginia.edu
+Professor,Terence Johnson,DS 3001 Foundations of Machine Learning,trj2j@virginia.edu
+Professor,Thomas Mark,MATH 4651 Advanced Linear Algebra,tem4h@virginia.edu
+Professor,Timothy Allen,BME 3030 Design and Innovation in Medicine,tea4y@virginia.edu
+Professor,Timothy Allen,BME 3090 Biomedical Engineering Integrated Design and Experimental Analysis (IDEAS) Laboratory II,tea4y@virginia.edu
+Professor,Timothy Allen,BME 4315 Systems Bioengineering,tea4y@virginia.edu
+Professor,Timothy Davis,"LPPL 2100 The Resilient Student: Transition, Thriving, and Leadership",tld8n@virginia.edu
+Professor,Timothy Victorio,ARCH 2020 Foundation Studio III,tv3ku@virginia.edu
+Professor,Todd Delong,ECE 3430 Introduction to Embedded Computer Systems,tad2x@virginia.edu
+Professor,Todd Delong,ECE 4435 Computer Architecture and Design,tad2x@virginia.edu
+Professor,Tom Fletcher,CS 4501 Special Topics in Computer Science,ptf8v@virginia.edu
+Professor,Tom Fletcher,ECE 4750 Digital Signal Processing,ptf8v@virginia.edu
+Professor,Tom Horton,CS 3240 Advanced Software Development Techniques,tbh3f@virginia.edu
+Professor,Tomonari Furukawa,MAE 4260 Robotic Autonomy,tf4rp@virginia.edu
+Professor,Tomonari Furukawa,MAE 4620 Mechanical Engineering Design II,tf4rp@virginia.edu
+Professor,Travis Elliott,"STS 4600 The Engineer, Ethics, and Professional Responsibility",ste3an@virginia.edu
+Professor,Tyler Ludwig,ECON 2010 Principles of Economics: Microeconomics,tjl2am@virginia.edu
 Professor,Upsorn Praphamontripong,CS 3250 Software Testing,up3f@virginia.edu
 Professor,Upsorn Praphamontripong,CS 4750 Database Systems,up3f@virginia.edu
 Professor,Utpal Chatterjee,PHYS 2415 Introductory Physics 2 for Engineers,uc5j@virginia.edu
-Professor,Vani Agarwal,LPPA 6150: Research Methods & Data Analysis I,va7vz@virginia.edu
-Professor,Victor Sanchez,LPPA 3640: Research Methods and Data Analysis in Public Policy,ugm6th@virginia.edu
-Professor,Wajih Ul Hassan,CS 4630 Defense Against the Dark Arts,hur7wv@virginia.edu
-Professor,William Davis,STS 2500 Engineering Ethics,hcn5ue@virginia.edu
-Professor,William Shand,CS 3710 Introduction to Cybersecurity,wss2ec@virginia.edu
-Professor,William Shobe,ECON 3430: Economics of Sustainability and the Environment,wms5f@virginia.edu
+Professor,Venkataraman Lakshmi,SYS 4054 Systems Design II,vl9tn@virginia.edu
+Professor,Walker Stern,MATH 3354 Survey of Algebra,ws7jx@virginia.edu
+Professor,Wei-Lun Tsai,MATH 2310 Calculus III,wt8zj@virginia.edu
+Professor,Wei-Lun Tsai,MATH 3354 Survey of Algebra,wt8zj@virginia.edu
+Professor,Weiqiang Wang,MATH 4660 Algebraic Combinatorics,ww9c@virginia.edu
+Professor,Wendi Dass,MATH 1110 Probability/Finite Mathematics,wec8v@virginia.edu
+Professor,William Balderrama,MATH 3350 Applied Linear Algebra,eqr8nm@virginia.edu
+Professor,William Clark,ARCH 5712 Design Drawing,wgc2w@virginia.edu
+Professor,William Clark,ARCH 5715 Elements of Design,wgc2w@virginia.edu
+Professor,William Davis,STS 2500 Science and Technology in Social and Global Context,hcn5ue@virginia.edu
+Professor,William Guilford,BME 2000 Biomedical Engineering Design and Discovery,whg2n@virginia.edu
+Professor,William Guilford,BME 2101 Physiology I for Engineers,whg2n@virginia.edu
+Professor,William Guilford,ENGR 2595 Special Topics in Engineering,whg2n@virginia.edu
+Professor,William Leeson,CS 1010 Introduction to Information Technology,wel2vw@virginia.edu
+Professor,William Levy,BME 3636 Neural Network Models of Cognition and Brain Computation,wbl@virginia.edu
+Professor,William Olsen,MATH 2310 Calculus III,weo3y@virginia.edu
+Professor,William Scherer,SYS 4054 Systems Design II,wts@virginia.edu
+Professor,William Sherman,ARCH 3020 Foundation Studio V,whs2b@virginia.edu
+Professor,William Sherman,ARCH 3020 Foundation Studio V,whs2b@virginia.edu
 Professor,William Wilhelm,COMM 4559 New Course in Commerce,wjw9a@virginia.edu
 Professor,Xiaochao Zheng,PHYS 1425 Introductory Physics 1 for Engineers,xz5y@virginia.edu
-Professor,Yifan Li,STAT 3110 Foundations of Statistics,yl9uzh@virginia.edu
-Professor,Yingri YU,COMM 5130 Advanced Financial Accounting,yy5p@virginia.edu
-Professor,Yixin Sun,CS 4501 Special Topics in Computer Science,ys3kz@virginia.edu
-Professor,Yutong Chen,ECON 4559: New Course in Economics,yc3jk@virginia.edu
+Professor,Xiaodong Li,MAE 4605 Manufacturing and Process Technology,xl3p@virginia.edu
+Professor,Xiaoyuan Ma,STAT 1100 Chance: An Introduction to Statistics,xm9ej@virginia.edu
+Professor,Xu Yi,ECE 1501 Special Topics in Electrical and Computer Engineering,xy3m@virginia.edu
+Professor,Yangfeng Ji,CS 4774 Machine Learning,yj3fs@virginia.edu
+Professor,Yangxiao Luo,MATH 1220 A Survey of Calculus II,yl8by@virginia.edu
+Professor,Yuda Shao,STAT 3110 Foundations of Statistics,ys7zg@virginia.edu
+Professor,Yue Cheng,DS 5110 Big Data Systems,mrz7dp@virginia.edu
+Professor,Zach Gates,MATH 1210 A survey of Calculus I,zg8bf@virginia.edu
+Professor,Zach Gates,MATH 1320 Calculus II,zg8bf@virginia.edu
+Professor,Zachary Beamer,"MATH 1160 Algebra, Number Systems, and Number Theory",zmb9b@virginia.edu
+Professor,Zhaohui Chen,COMM 3720 Intermediate Corporate Finance,zc8j@virginia.edu
+Professor,Zoran Grujic,MATH 3250 Ordinary Differential Equations,zg7c@virginia.edu
+Professor,Zoran Grujic,MATH 4250 Differential Equations and Dynamical Systems,zg7c@virginia.edu
