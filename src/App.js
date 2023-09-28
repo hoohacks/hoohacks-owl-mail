@@ -58,10 +58,10 @@ for longer messages (ex: blurb for HooHacks 2022). Edge kinda sucks when it come
 */
   const sendEmail = (()=>{
     if(entity.type.toLowerCase()==="professor"){
-      window.location.href = "mailto:"+entity.email+"?subject=Opportunity for Students - HooHacks 2023&body="+pMessage;
+      window.location.href = "mailto:"+entity.email+"?subject=Opportunity for Students - Ideathon 2023&body="+pMessage;
     }
     else{
-      window.location.href = "mailto:"+entity.email+"?subject=Opportunity for Students - HooHacks 2023&body="+oMessage;
+      window.location.href = "mailto:"+entity.email+"?subject=Opportunity for Students - Ideathon 2023&body="+oMessage;
     }
   })
 
@@ -131,21 +131,23 @@ const pMessage = `Dear Professor ${entity.name.split(' ').pop()},%0D%0A%0D%0A
 
 I'm ${myName} from The HooHacks Team, and I'd greatly appreciate it if you would take the time to share this fantastic opportunity with your students in ${formatArray(Array.from(entity.class))}.
 %0D%0A%0D%0A
-Registration for HooHacks 2023 is open!  HooHacks🦉 is UVA's premier student-run 24-hour hackathon and will take place March 25th - 26th as an in-person event. Hackathons are not for "hacking" in the sense of breaking into security systems, but more for "hacking" together a project within the span of 24 hours⏳. It's a great opportunity for all students to learn, build, and have fun. We'd really like to stress that the hackathon does not require any prior coding experience and that non-STEM majors, first-time hackers, and beginner coders are all welcome.
+The HooHacks Team is proud to present Ideathon 2023, which will take place on October 14th from 10 AM - 7 PM at Rice Hall!  
 %0D%0A%0D%0A
-🌞This event will be fully in-person. Come on down to E-Way to enjoy some free food🍕, free swag👕, sponsors + mentors, networking events🤝, plenty of spaces to code, and more! 
+💡Ideathon is a networking, team building, and pitching technology entrepreneurship event designed to help students with technical experience and students with business experience build their technical business idea.
 %0D%0A%0D%0A
-📢We will have experienced students and industry experts from companies like Leidos, CoStar, and Google hosting workshops and tech talks perfect for beginners and advanced students.
+🤝Student teams can meet 1:1 with industry experts about their ideas and form long lasting relationships with them as they continue to grow their ideas.
 %0D%0A%0D%0A
-📚Resources and mentors will be readily available to guide and assist you with your project. 
+📈Sponsors will be holding workshops to teach students about pitching their ideas, valuing their potential businesses, and building technical prototypes. 
 %0D%0A%0D%0A
-😆Group up with friends or meet new friends to create a project together for a chance to win prizes like drones, iPads, and AirPods🎧 (we have over $10,000💰 worth of prizes in total!). 
+💰Teams will pitch their idea to a board of sponsors for funding, with the opportunity to win up to $1000 worth of seed money to help fund their startup.
 %0D%0A%0D%0A
-🎈Aside from that, HooHacks will have fun activities for everyone to enjoy scattered throughout the hackathon like a puzzle challenge, Smash Bros. + Pokémon Showdown tournament, and salsa dancing. 
+🏥This year, we have an exciting new healthcare track, sponsored by the Pittsburgh Regional Health Initiative's Patient Safety Technology Challenge, where you have the additional opportunity to pitch your healthcare-centric project idea for a chance at winning an additional $500.
 %0D%0A%0D%0A
-✅Sign up today at:  https://www.hoohacks.io/register (Registration will close on February 25)
+🍴And yes, there will be free food (breakfast + lunch) for attendees.
+%0D%0A%0D%0A
+✅Sign up today at:  http://ideathon.hoohacks.io/apply (Registration will close on October 8)
 %0D%0A
-💭Learn more about the event at: http://hoohacks.io
+💭Learn more about the event at: http://ideathon.hoohacks.io
 %0D%0A%0D%0A
 
 Thank you so much!%0D%0A%0D%0A
@@ -180,11 +182,12 @@ ${myName}
   // This is what's rendered on the website
   return (
     <div class="center" style={{justifyContent:"center"}}>
-      <Card elevation="13"style={{marginTop:"10%", marginBottom:"5%",height:"auto",width:"auto"}}>
+      <Card elevation="13"style={{marginTop:"5%", marginBottom:"5%",height:"auto",width:"auto", borderRadius:30}}>
         <div style={{margin:"50px"}}>
       <div style={{display:"block",textAlign:"center"}}>
       <img style={{height:60, width:410}} alt="HooHacks Logo" src={logo}/>
-      <h3 style={{marginTop:2,fontWeight:"300"}}>Hoo's mailing this? Owl mail It!</h3>
+      <h1 style={{display:"block",textAlign:"right",marginTop:-10, color:"#2596be", fontStyle:"italic"}}>Owl Mail📨</h1>
+      <h3 style={{marginTop:-10,fontWeight:"300"}}>Hoo's mailing this? Owl mail it!</h3>
       </div>
       <h2 style={{fontWeight:"300"}}>Name/Organization:</h2>
       <Select placeholder="Name/Organization" value={entity&&{label:entity.name}} onChange={(selectedOption)=>{
