@@ -6,10 +6,9 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   background-image: url('./assets/night.jpg');
-  background-size: cover; /* Adjust to your preference */
-  background-position: center; /* Adjust to your preference */
+  background-size: cover;
   background-repeat: no-repeat;
-  background-size: 200%;
+  background-size: 180%;
   /* background: -webkit-linear-gradient(#648880, #293f50);
   background:    -moz-linear-gradient(#648880, #293f50);
   background:         linear-gradient(#648880, #293f50); */

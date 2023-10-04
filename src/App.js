@@ -15,6 +15,7 @@ function App() {
   const [entitiesByName,setEntitiesByName] = useState(null);
   const [entitiesByEmail,setEntitiesByEmail] = useState(null);
   const [entitiesByClass,setEntitiesByClass] = useState(null);
+  const [hackex,setHackex] = useState(false);
 
 // useEffect scans CSV to get data
 useEffect(()=>{
@@ -128,6 +129,35 @@ for longer messages (ex: blurb for HooHacks 2022). Edge kinda sucks when it come
 
 
 const pMessage = `Dear Professor ${entity.name.split(' ').pop()},%0D%0A%0D%0A
+
+I'm ${myName} from The HooHacks Team, and I'd greatly appreciate it if you would take the time to share this fantastic opportunity with your students in ${formatArray(Array.from(entity.class))}.
+%0D%0A%0D%0A
+The HooHacks Team is proud to present Ideathon 2023, which will take place on October 14th from 10 AM - 7 PM at Rice Hall!  
+%0D%0A%0D%0A
+💡Ideathon is a networking, team building, and pitching technology entrepreneurship event designed to help students with technical experience and students with business experience build their technical business idea.
+%0D%0A%0D%0A
+🤝Student teams can meet 1:1 with industry experts about their ideas and form long lasting relationships with them as they continue to grow their ideas.
+%0D%0A%0D%0A
+📈Sponsors will be holding workshops to teach students about pitching their ideas, valuing their potential businesses, and building technical prototypes. 
+%0D%0A%0D%0A
+💰Teams will pitch their idea to a board of sponsors for funding, with the opportunity to win up to $1000 worth of seed money to help fund their startup.
+%0D%0A%0D%0A
+🏥This year, we have an exciting new healthcare track, sponsored by the Pittsburgh Regional Health Initiative's Patient Safety Technology Challenge, where you have the additional opportunity to pitch your healthcare-centric project idea for a chance at winning an additional $500.
+%0D%0A%0D%0A
+🍴And yes, there will be free food (breakfast + lunch) for attendees.
+%0D%0A%0D%0A
+✅Sign up today at:  http://ideathon.hoohacks.io/apply (Registration will close on October 8)
+%0D%0A
+💭Learn more about the event at: http://ideathon.hoohacks.io
+%0D%0A%0D%0A
+
+Thank you so much!%0D%0A%0D%0A
+
+Best Regards,%0D%0A
+${myName}
+`
+
+const pMessageHackex = `Dear Professor ${entity.name.split(' ').pop()},%0D%0A%0D%0A
 
 I'm ${myName} from The HooHacks Team, and I'd greatly appreciate it if you would take the time to share this fantastic opportunity with your students in ${formatArray(Array.from(entity.class))}.
 %0D%0A%0D%0A
