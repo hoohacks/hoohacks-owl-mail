@@ -59,10 +59,10 @@ for longer messages (ex: blurb for HooHacks 2022). Edge kinda sucks when it come
 */
   const sendEmail = (()=>{
     if(entity.type.toLowerCase()==="professor"){
-      window.location.href = "mailto:"+entity.email+"?subject=Opportunity for Students - Ideathon 2023&body="+pMessage;
+      window.location.href = "mailto:"+entity.email+"?subject=Opportunity for Students - HooHacks 2024&body="+pMessage;
     }
     else{
-      window.location.href = "mailto:"+entity.email+"?subject=Opportunity for Students - Ideathon 2023&body="+oMessage;
+      window.location.href = "mailto:"+entity.email+"?subject=Opportunity for Students - HooHacks 2024&body="+oMessage;
     }
   })
 
@@ -132,23 +132,25 @@ const pMessage = `Dear Professor ${entity.name.split(' ').pop()},%0D%0A%0D%0A
 
 I'm ${myName} from The HooHacks Team, and I'd greatly appreciate it if you would take the time to share this fantastic opportunity with your students in ${formatArray(Array.from(entity.class))}.
 %0D%0A%0D%0A
-The HooHacks Team is proud to present Ideathon 2023, which will take place on October 14th from 10 AM - 7 PM at Rice Hall!  
+Registration for HooHacks 2024 is open! HooHacks🦉 is UVA's premier student-run 24-hour hackathon and will take place March 23rd - 24th as an in-person event. It's a great opportunity for all students to learn, build, and have fun. HooHacks does not require any prior coding experience - non-STEM majors, first-time hackers, and beginner coders are all welcome.
 %0D%0A%0D%0A
-💡Ideathon is a networking, team building, and pitching technology entrepreneurship event designed to help students with technical experience and students with business experience build their technical business idea.
+🌞HooHacks is fully in-person. Come to E-Way to enjoy some free food🍕, free swag👕, sponsors + mentors, networking events, plenty of spaces to code, and more! 
 %0D%0A%0D%0A
-🤝Student teams can meet 1:1 with industry experts about their ideas and form long lasting relationships with them as they continue to grow their ideas.
+📢Meet experienced students and industry experts from companies like Intel, CoStar, and Google hosting workshops and tech talks perfect for beginners and advanced students.
 %0D%0A%0D%0A
-📈Sponsors will be holding workshops to teach students about pitching their ideas, valuing their potential businesses, and building technical prototypes. 
+📚Resources and mentors will be readily available to guide and assist you with your project. 
 %0D%0A%0D%0A
-💰Teams will pitch their idea to a board of sponsors for funding, with the opportunity to win up to $1000 worth of seed money to help fund their startup.
+😆 Win prizes like drones, iPads, and AirPods🎧 (we have over $12,000💰 worth of prizes in total!). 
 %0D%0A%0D%0A
-🏥This year, we have an exciting new healthcare track, sponsored by the Pittsburgh Regional Health Initiative's Patient Safety Technology Challenge, where you have the additional opportunity to pitch your healthcare-centric project idea for a chance at winning an additional $500.
+🎈Enjoy fun activities like a puzzle challenge, Smash Bros. + Pokémon Showdown tournament, and salsa dancing. 
 %0D%0A%0D%0A
-🍴And yes, there will be free food (breakfast + lunch) for attendees.
+✈️ Have friends at other schools? We are providing free bus routes and travel reimbursement options. More details here: https://bit.ly/hoohacks2024travelreimbursement
 %0D%0A%0D%0A
-✅Sign up today at:  http://ideathon.hoohacks.io/apply (Registration will close on October 8)
+⚠️Please note that you must be over the age of 18 to participate.
+%0D%0A%0D%0A
+✅Sign up today at:  https://www.hoohacks.io/register (Registration will close on February 28)
 %0D%0A
-💭Learn more about the event at: http://ideathon.hoohacks.io
+💭Learn more about the event at: http://hoohacks.io 
 %0D%0A%0D%0A
 
 Thank you so much!%0D%0A%0D%0A
